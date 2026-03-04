@@ -28,3 +28,9 @@ Waited for VirusTotal to finish scanning the URL across all security vendors.
 ![SS12](/threat-analysis-and-detection/VirusTotal-File-and-URL-Analysis-Lab-Part-1/Screenshots/SS12.png)
 
 
+### 4. Review Detection Results (Summary Tab)
+Reviewed the Summary tab after the analysis completed.
+
+![SS13](/threat-analysis-and-detection/VirusTotal-File-and-URL-Analysis-Lab-Part-1/Screenshots/SS13.png)
+
+**Result:** 0 / 94 security vendors flagged the URL as malicious.
