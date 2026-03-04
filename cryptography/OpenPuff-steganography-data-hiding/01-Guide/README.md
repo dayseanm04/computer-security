@@ -4,7 +4,6 @@ This folder contains the step-by-step walkthrough for the **OpenPuff Steganograp
 
 ---
 
-
 ## 📂 Files
 
 | File | Description |
@@ -14,3 +13,13 @@ This folder contains the step-by-step walkthrough for the **OpenPuff Steganograp
 | [**`03-unhide-message-with-OpenPuff.md`**](./03-unhide-message-with-OpenPuff.md) | Recover the hidden message from the carrier file using the Unhide feature |
 
 ---
+
+## 📸 Screenshots
+
+All screenshots referenced in the guides are located in the [**`05-Screenshots/`**](../05-Screenshots/) folder at the root of the repo.
+
+---
+
+## Back to Repo
+
+[**OpenPuff-steganography-data-hiding**](../README.md)
