@@ -38,3 +38,5 @@ Under section **(1)**, re-enter the same three passwords you used when hiding th
 2. Navigate to **Desktop > Stegano**
 3. Select **openPuff_Screenshot.png**
 4. Click **Open**
+![SS23i](../05-Screenshots/ss23i.png)
+
