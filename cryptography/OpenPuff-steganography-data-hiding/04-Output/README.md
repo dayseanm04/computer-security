@@ -23,4 +23,4 @@ Contains the **recovered secret message** extracted from the carrier image. This
 
 ## Back to Repo
 
-[OpenPuff-steganography-data-hiding](../README.md)
+[**`OpenPuff-steganography-data-hiding`**](../README.md)
