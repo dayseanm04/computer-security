@@ -47,3 +47,7 @@ Using the same three passwords and the carrier image, OpenPuff extracts and reco
 | 3 | [**`Unhide Message with OpenPuff`**](./01-Guide/03-unhide-message-with-OpenPuff.md) |
 
 ---
+
+## Key Takeaway
+
+> Steganography is a technique used in both **cybersecurity defense** and **threat actor tactics**. Understanding how data can be hidden inside ordinary files is essential knowledge for anyone working in security, digital forensics, or threat analysis.
