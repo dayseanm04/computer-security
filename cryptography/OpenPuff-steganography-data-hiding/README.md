@@ -42,8 +42,8 @@ Using the same three passwords and the carrier image, OpenPuff extracts and reco
 
 | Step | Guide |
 |------|-------|
-| 1 | [**Download and Setup OpenPuff**](./01-Guide/01-download-and-setup-OpenPuff.md) |
-| 2 | [**Hide Message with OpenPuff**](./01-Guide/02-hide-message-with-OpenPuff.md) |
-| 3 | [**Unhide Message with OpenPuff**](./01-Guide/03-unhide-message-with-OpenPuff.md) |
+| 1 | [**`Download and Setup OpenPuff`**](./01-Guide/01-download-and-setup-OpenPuff.md) |
+| 2 | [**`Hide Message with OpenPuff`**](./01-Guide/02-hide-message-with-OpenPuff.md) |
+| 3 | [**`Unhide Message with OpenPuff`**](./01-Guide/03-unhide-message-with-OpenPuff.md) |
 
 ---
