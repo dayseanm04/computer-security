@@ -11,3 +11,13 @@ All screenshots follow this naming format:
 ```
 SS<number>.png
 ```
+
+For example: `SS1.png`, `SS2.png`, `SS3.png` ...
+
+Screenshots are numbered in the order they appear across the three guides.
+
+---
+
+##  Back to Repo
+
+[**`OpenPuff-steganography-data-hiding`**](../README.md)
