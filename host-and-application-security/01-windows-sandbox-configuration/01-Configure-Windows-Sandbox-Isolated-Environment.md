@@ -38,6 +38,19 @@
 ![SS4](/host-and-application-security/01-windows-sandbox-configuration/01-Images/4.png)
 ![SS5](/host-and-application-security/01-windows-sandbox-configuration/01-Images/5.png)
 
+---
+
+## Step 3: Launch Windows Sandbox
+
+1. Search up **Windows Sandbox**
+
+![SS6](/host-and-application-security/01-windows-sandbox-configuration/01-Images/6.png)
+
+2. click **Windows Sandbox** to launch it
+
+![SS7](/host-and-application-security/01-windows-sandbox-configuration/01-Images/7.png)
+
+> A protected virtual machine that looks like a Windows instance will start up.
 
 
 
