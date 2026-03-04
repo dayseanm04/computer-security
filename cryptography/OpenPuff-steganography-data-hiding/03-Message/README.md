@@ -9,6 +9,6 @@ This folder contains the **secret message** used in the OpenPuff steganography l
 | File | Description |
 |------|-------------|
 | **`Message.txt`** | Plain text file containing the secret message |
-| `**Message.zip**` | Zipped version of `Message.txt`, this is the file loaded into OpenPuff for hiding |
+| **`Message.zip`** | Zipped version of `Message.txt`, this is the file loaded into OpenPuff for hiding |
 
 ---
