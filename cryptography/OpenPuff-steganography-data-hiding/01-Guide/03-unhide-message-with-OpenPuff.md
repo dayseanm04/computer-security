@@ -68,3 +68,10 @@ Under section **(1)**, re-enter the same three passwords you used when hiding th
 
 ![SS26](../05-Screenshots/ss26.png)
 
+
+2. Right-click on **Message.zip** and click **Extract All**
+
+3. Click **Extract**
+
+![SS27](../05-Screenshots/ss27.png)
+
