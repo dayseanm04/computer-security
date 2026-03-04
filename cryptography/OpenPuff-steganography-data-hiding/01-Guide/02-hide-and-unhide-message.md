@@ -60,3 +60,11 @@ Under section **(3)**:
 
 4. Select **openPuff_Screenshot.png**
 5. Click **Open**
+
+**Note:** The carrier file is the image that will contain the hidden message embedded inside it.
+
+---
+
+### Step 5: Hide the Data
+
+1. Click **Hide Data!**
