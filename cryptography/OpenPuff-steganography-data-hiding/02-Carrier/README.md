@@ -15,7 +15,7 @@ This folder contains the **carrier file** used in the OpenPuff steganography lab
 ## 🔗 How It's Used
 
 - The carrier file is loaded in **Step 4** of [**`02-hide-message-with-OpenPuff.md`**](../01-Guide/02-hide-message-with-OpenPuff.md)
-- After embedding, the output is saved to [**`03-Output/Stegano/`**](../03-Output/Stegano/)
+- After embedding, the output is saved to [**`03-Output/Stegano/`**](../03-Output/)
 
 ---
 
