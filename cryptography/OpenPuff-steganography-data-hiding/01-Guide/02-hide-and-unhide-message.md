@@ -34,3 +34,18 @@ Under section **(1)**, create three unrelated passwords and enter them:
 ![SS13](../05-Screenshots/ss13.png)
 
 **Note:** All three passwords are required to unhide the message later. Do not forget them (write them somewhere).
+
+---
+
+### Step 3: Load the Secret Message
+
+Under section **(2)**:
+
+1. Click **Browse**
+2. Navigate to **Desktop** (this is where I saved the Messave.zip)
+3. Select **Message.zip**
+4. Click **Open**
+
+![SS14](../05-Screenshots/ss14.png)
+
+---
