@@ -27,10 +27,11 @@ Waited for VirusTotal to finish scanning the URL across all security vendors.
 
 ![SS12](/threat-analysis-and-detection/VirusTotal-File-and-URL-Analysis-Lab-Part-1/Screenshots/SS12.png)
 
-
-### 4. Review Detection Results (Summary Tab)
-Reviewed the Summary tab after the analysis completed.
+**Result:** 0 / 94 security vendors flagged the URL as malicious.
 
 ![SS13](/threat-analysis-and-detection/VirusTotal-File-and-URL-Analysis-Lab-Part-1/Screenshots/SS13.png)
 
-**Result:** 0 / 94 security vendors flagged the URL as malicious.
+### 4. Review Detection Tab
+Clicked the **DETECTION** tab to view individual vendor results.
+
+**Notable result:** ESET flagged the URL as **Suspicious**, while the majority of vendors returned **Clean**.
