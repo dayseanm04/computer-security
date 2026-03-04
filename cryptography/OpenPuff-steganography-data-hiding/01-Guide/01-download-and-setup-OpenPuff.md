@@ -11,7 +11,7 @@ In this section, I will download OpenPuff, set up the required files and folders
 1. Open your web browser and search for **OpenPuff**
 2. Click on the result titled **OpenPuff - Steganography & Watermarking**
 
-![SS1](/05-Screenshots/SS1.png)
+![SS1](/OpenPuff-steganography-data-hiding/05-Screenshots/SS1.png)
 
 
 4. Click **Download binary for Windows/Linux**
