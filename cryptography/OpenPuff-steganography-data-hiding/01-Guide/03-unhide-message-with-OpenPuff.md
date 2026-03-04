@@ -27,3 +27,14 @@ Under section **(1)**, re-enter the same three passwords you used when hiding th
 - **Cryptography (A)**
 - **Cryptography (B)**
 - **Scrambling (C)**
+
+![SS22](../05-Screenshots/ss22.png)
+
+---
+
+### Step 4: Load the Carrier File
+
+1. Click **Add Carriers**
+2. Navigate to **Desktop > Stegano**
+3. Select **openPuff_Screenshot.png**
+4. Click **Open**
