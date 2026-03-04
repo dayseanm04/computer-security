@@ -38,5 +38,14 @@ Under section **(1)**, re-enter the same three passwords you used when hiding th
 2. Navigate to **Desktop > Stegano**
 3. Select **openPuff_Screenshot.png**
 4. Click **Open**
+
 ![SS23i](../05-Screenshots/ss23i.png)
 
+---
+
+### Step 11: Unhide the Data
+
+1. Click **Unhide!**
+2. When prompted to select an output directory, navigate to the **Stegano-out** folder on your Desktop
+3. Click **OK**
+![SS23](../05-Screenshots/ss23.png)
