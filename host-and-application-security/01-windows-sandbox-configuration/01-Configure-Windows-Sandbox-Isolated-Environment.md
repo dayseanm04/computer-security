@@ -88,3 +88,19 @@ Google Chrome was gone. It was deleted because the Windows Sandbox resets comple
 
 ![SS11](/host-and-application-security/01-windows-sandbox-configuration/01-Images/11.png)
 
+---
+
+## Step 7: Close All Windows
+
+1. Close the Windows Sandbox
+2. Close all remaining open windows
+
+---
+
+## Lab Completed
+
+I have successfully:
+- Verified virtualization was enabled on the host machine
+- Enabled and configured Windows Sandbox via Windows Features
+- Launched the sandbox and installed Google Chrome inside it
+- Confirmed that the sandbox environment is fully isolated and resets on every close
