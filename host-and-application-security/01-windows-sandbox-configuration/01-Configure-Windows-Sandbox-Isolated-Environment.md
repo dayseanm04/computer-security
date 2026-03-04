@@ -54,4 +54,13 @@
 > A protected virtual machine that looks like a Windows instance will start up.
 
 
+---
+
+## Step 4: Test the Sandbox — Install Google Chrome
+
+1. Inside the Windows Sandbox, open **Microsoft Edge**
+2. Download and install **Google Chrome**
+3. Confirm the installation completed successfully
+
+![SS9](../05-Screenshots/SS9.png)
 
