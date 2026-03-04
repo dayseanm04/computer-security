@@ -83,3 +83,4 @@ Under section **(1)**, re-enter the same three passwords you used when hiding th
 
 ![SS29](../05-Screenshots/ss29.png)
 
+I can see the message I hid.
