@@ -49,3 +49,12 @@ Under section **(2)**:
 ![SS14](../05-Screenshots/ss14.png)
 
 ---
+
+### Step 4: Load the Carrier File
+
+Under section **(3)**:
+1. Click **Add**
+2. Navigate to **Pictures > Screenshots** folder (this is where the screenshot is)
+
+4. Select **openPuff_Screenshot.png**
+5. Click **Open**
