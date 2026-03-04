@@ -17,3 +17,11 @@ Use VirusTotal to perform both file-based and URL-based threat analysis, interpr
 | Web Browser | Accessing the VirusTotal platform |
 
 ---
+
+##  Lab Guides
+
+| Section | Description |
+|---------|-------------|
+| [**VirusTotal File Analysis**](./VirusTotal-File-Analysis/Malware-Detection-Using-VirusTotal.md) | Upload and analyze a file across multiple AV engines |
+| [**VirusTotal URL Analysis**](./VirusTotal-URL-Analysis/URL-Analysis-with-VirusTotal.md) | Submit and analyze a URL for malicious indicators |
+| [**Reflection Questions**](./01-Reflection-Questions.md) | Reflection Questions for the lab |
