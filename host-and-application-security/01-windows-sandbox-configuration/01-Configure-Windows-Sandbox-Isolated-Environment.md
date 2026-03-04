@@ -27,3 +27,7 @@
 
 ![SS2](/host-and-application-security/01-windows-sandbox-configuration/01-Images/2.png)
 
+3. Scroll down and check the **Windows Sandbox** checkbox
+4. Click **OK**
+
+![SS3](/host-and-application-security/01-windows-sandbox-configuration/01-Images/3.png)
