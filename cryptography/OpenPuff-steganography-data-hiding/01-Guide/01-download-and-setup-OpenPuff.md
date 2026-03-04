@@ -15,7 +15,10 @@ In this section, I will download OpenPuff, set up the required files and folders
 
 
 4. Click **Download binary for Windows/Linux**
-5. When the payment page appears, click the **.ZIP link** to download for free without submitting a payment
+
+![SS1](../05-Screenshots/SS2.png)
+
+6. When the payment page appears, click the **.ZIP link** to download for free without submitting a payment
 
 
 ---
