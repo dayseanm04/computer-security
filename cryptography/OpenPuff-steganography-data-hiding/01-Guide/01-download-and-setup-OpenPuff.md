@@ -102,4 +102,4 @@ You have successfully:
 - Created a secret message and zipped it
 - Created a `Stegano` and `Stegano-out` output folders
 
-Continue to **[Part B: Hide and Unhide Message](./02-hide-and-unhide-message.md)**
+Continue to **[Part B: Hide Message with OpenPuff](./02-hide-message-with-OpenPuff.md)**
