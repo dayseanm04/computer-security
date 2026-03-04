@@ -19,3 +19,11 @@
 ![SS1](/host-and-application-security/01-windows-sandbox-configuration/01-Images/1.png)
 
 ---
+
+## Step 2: Enable Windows Sandbox
+
+1. In the Windows search box on the taskbar, type **Windows Features**
+2. Click **Turn Windows features on or off** from the results
+
+![SS2](/host-and-application-security/01-windows-sandbox-configuration/01-Images/2.png)
+
