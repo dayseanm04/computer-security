@@ -62,7 +62,19 @@ In this section, I will download OpenPuff, set up the required files and folders
 
 **Note:** In lab/project I saved it to the **Desktop**
 
-![SS5](../05-Screenshots/SS6.png)
+![SS6](../05-Screenshots/SS6.png)
 
 ---
 
+## Step 5: Zip the Message File
+
+1. Navigate to the location of **Message.txt** (Desktop)
+2. Right-click on **Message.txt**
+3. Click **Compress to...**
+4. Select **ZIP file**
+
+You should now have both `Message.txt` and `Message.zip` in the same location.
+
+![SS7](../05-Screenshots/SS7.png)
+
+---
