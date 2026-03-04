@@ -19,3 +19,11 @@ In this section, I will use **OpenPuff** to recover a hidden secret message insi
 ![SS21](../05-Screenshots/ss21.png)
 
 ---
+
+### Step 3: Enter the Three Passwords
+
+Under section **(1)**, re-enter the same three passwords you used when hiding the message:
+
+- **Cryptography (A)**
+- **Cryptography (B)**
+- **Scrambling (C)**
