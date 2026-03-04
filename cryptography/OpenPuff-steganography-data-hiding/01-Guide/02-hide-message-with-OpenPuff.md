@@ -86,5 +86,4 @@ Under section **(3)**:
 
 **Can you detect anything different?** I cant detect anything different with the image it looks the same. (this is the point of steganography. The hidden message is invisible to the naked eye)
 
-
-
+Continue to **[Part C: Unide Message with OpenPuff](./03-unhide-message-with-OpenPuff.md)**
