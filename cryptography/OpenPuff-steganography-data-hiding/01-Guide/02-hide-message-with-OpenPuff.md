@@ -5,8 +5,6 @@ In this section, I will use **OpenPuff** to embed a secret message inside a carr
 
 ---
 
-## Part B: Hide the Message
-
 ### Step 1: Open OpenPuff and Click Hide
 
 1. Navigate to your **Downloads > OpenPuff_release > OpenPuff_release** folder
