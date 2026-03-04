@@ -2,6 +2,8 @@
 
 A hands-on cybersecurity project demonstrating **steganography**, the practice of concealing secret data within an ordinary file, using **OpenPuff**.
 
+<img width="427" height="299" alt="OpenPuff" src="https://github.com/user-attachments/assets/81583a15-f326-4bfa-a180-cf45f6ebf03d" />
+
 ---
 
 ## What is Steganography?
