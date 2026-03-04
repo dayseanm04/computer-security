@@ -16,7 +16,10 @@ In this section, I will use **OpenPuff** to embed a secret message inside a carr
 ![SS11](../05-Screenshots/ss11.png)
 
 3. Run **OpenPuff.exe**
-4. Click **Hide**
+
+![SS12](../05-Screenshots/ss12.png)
+
+5. Click **Hide**
 
 
 ---
