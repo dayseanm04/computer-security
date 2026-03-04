@@ -31,4 +31,6 @@ Under section **(1)**, create three unrelated passwords and enter them:
 - **Cryptography (B)** — second password
 - **Scrambling (C)** — third password (make it long enough so the Password check bar turns **green**)
 
+![SS13](../05-Screenshots/ss13.png)
+
 **Note:** All three passwords are required to unhide the message later. Do not forget them (write them somewhere).
