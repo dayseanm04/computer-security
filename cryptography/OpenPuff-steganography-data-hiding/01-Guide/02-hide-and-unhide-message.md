@@ -11,9 +11,9 @@ In this section, I will use **OpenPuff** to embed a secret message inside a carr
 
 1. Navigate to your **Downloads > OpenPuff_release > OpenPuff_release** folder
 
-![SS9](../05-Screenshots/SS9.png)
-![SS10](../05-Screenshots/SS10.png)
-![SS11](../05-Screenshots/SS11.png)
+![SS9](../05-Screenshots/ss9.png)
+![SS10](../05-Screenshots/ss10.png)
+![SS11](../05-Screenshots/ss11.png)
 
 3. Run **OpenPuff.exe**
 4. Click **Hide**
