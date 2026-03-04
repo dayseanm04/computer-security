@@ -62,5 +62,16 @@
 2. Download and install **Google Chrome**
 3. Confirm the installation completed successfully
 
-![SS9](../05-Screenshots/SS9.png)
+![SS9](/host-and-application-security/01-windows-sandbox-configuration/01-Images/9.png)
+
+---
+
+## Step 5: Close the Sandbox
+
+1. Close the Windows Sandbox window
+2. A warning will appear:
+
+![SS10](/host-and-application-security/01-windows-sandbox-configuration/01-Images/10.png)
+
+3. Click **OK** to confirm
 
