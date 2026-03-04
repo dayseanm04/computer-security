@@ -31,3 +31,21 @@ In this section, I will download OpenPuff, set up the required files and folders
 2. Save it as **openPuff_Screenshot.jpg**, this will be the **carrier file** that will contain the hidden message
 
 ![CI-SS2](../02-Carrier/openPuff_Screenshot.png)
+
+
+---
+
+## Step 3: Extract OpenPuff
+
+1. Navigate to your **Downloads** folder
+2. Right-click on **OpenPuff_release.zip**
+3. Click **Extract All**
+
+![SS4](../05-Screenshots/SS4.png)
+
+5. Click **Extract**
+
+![SS5](../05-Screenshots/SS5.png)
+
+
+
