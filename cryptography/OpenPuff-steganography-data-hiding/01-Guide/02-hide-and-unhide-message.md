@@ -68,3 +68,4 @@ Under section **(3)**:
 ### Step 5: Hide the Data
 
 1. Click **Hide Data!**
+![SS16](../05-Screenshots/ss16.png)
