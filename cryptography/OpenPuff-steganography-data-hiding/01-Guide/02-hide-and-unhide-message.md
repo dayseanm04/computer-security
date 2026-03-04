@@ -56,5 +56,7 @@ Under section **(3)**:
 1. Click **Add**
 2. Navigate to **Pictures > Screenshots** folder (this is where the screenshot is)
 
+![SS15](../05-Screenshots/ss15.png)
+
 4. Select **openPuff_Screenshot.png**
 5. Click **Open**
