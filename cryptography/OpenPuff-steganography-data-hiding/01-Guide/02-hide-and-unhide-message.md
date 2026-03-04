@@ -69,3 +69,10 @@ Under section **(3)**:
 
 1. Click **Hide Data!**
 ![SS16](../05-Screenshots/ss16.png)
+
+2. When prompted to select an output directory, navigate to the **Stegano** folder on your Desktop
+3. Click **OK**
+![SS17](../05-Screenshots/ss17.png)
+
+5. When the task completes, click **OK** on the confirmation dialog
+6. Read the task report, then click **Done**
