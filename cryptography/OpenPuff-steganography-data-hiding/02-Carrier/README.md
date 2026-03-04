@@ -11,3 +11,14 @@ This folder contains the **carrier file** used in the OpenPuff steganography lab
 | **`openPuff_Screenshot.png`** | Screenshot of the OpenPuff download page, used as the carrier image |
 
 ---
+
+## 🔗 How It's Used
+
+- The carrier file is loaded in **Step 4** of [**`02-hide-message-with-OpenPuff.md`**](../01-Guide/02-hide-message-with-OpenPuff.md)
+- After embedding, the output is saved to [**`03-Output/Stegano/`**](../03-Output/Stegano/)
+
+---
+
+## Back to Repo
+
+[**`OpenPuff-steganography-data-hiding`**](../README.md)
