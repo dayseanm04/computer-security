@@ -4,3 +4,17 @@
 In this section, I will use **OpenPuff** to embed a secret message inside a carrier image, then recover it using the Unhide feature.
 
 ---
+
+## Part B-1: Hide the Message
+
+### Step 1: Open OpenPuff and Click Hide
+
+1. Navigate to your **Downloads > OpenPuff_release > OpenPuff_release** folder
+
+![SS9](../05-Screenshots/09.png)
+
+3. Run **OpenPuff.exe**
+4. Click **Hide**
+
+
+---
