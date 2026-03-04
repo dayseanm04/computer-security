@@ -31,5 +31,13 @@
 4. Click **OK**
 
 ![SS3](/host-and-application-security/01-windows-sandbox-configuration/01-Images/3.png)
+
 5. Windows will search for required files and apply the changes
 6. When prompted, click **Restart Now** to reboot your PC
+
+![SS4](/host-and-application-security/01-windows-sandbox-configuration/01-Images/4.png)
+![SS5](/host-and-application-security/01-windows-sandbox-configuration/01-Images/5.png)
+
+
+
+
