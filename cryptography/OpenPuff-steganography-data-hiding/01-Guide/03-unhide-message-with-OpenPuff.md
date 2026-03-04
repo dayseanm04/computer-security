@@ -56,6 +56,7 @@ Under section **(1)**, re-enter the same three passwords you used when hiding th
 
 ![SS24](../05-Screenshots/ss24.png)
 
+5. click **Done**
+
 ![SS25](../05-Screenshots/ss25.png)
 
-6. click **Done**
