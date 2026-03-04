@@ -75,3 +75,16 @@
 
 3. Click **OK** to confirm
 
+---
+
+## Step 6: Relaunch and Verify Isolation
+
+1. Relaunch **Windows Sandbox** from the Start menu
+2. Check if Google Chrome is still installed
+
+**What happened to Google Chrome?**
+
+Google Chrome was gone. It was deleted because the Windows Sandbox resets completely every time it is closed, nothing installed or changed inside the sandbox is saved to the host machine and the VM. This demonstrates the purpose of a sandbox: **complete isolation**.
+
+![SS11](/host-and-application-security/01-windows-sandbox-configuration/01-Images/11.png)
+
