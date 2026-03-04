@@ -1,4 +1,4 @@
-# Part B: Hide and Unhide Message
+# Part B: Hide a Message using OpenPuff
 
 ## Overview
 In this section, I will use **OpenPuff** to embed a secret message inside a carrier image.
