@@ -44,7 +44,7 @@ Under section **(1)**, re-enter the same three passwords you used when hiding th
 
 ---
 
-### Step 11: Unhide the Data
+### Step 5: Unhide the Data
 
 1. Click **Unhide!**
 2. When prompted to select an output directory, navigate to the **Stegano-out** folder on your Desktop
@@ -59,4 +59,12 @@ Under section **(1)**, re-enter the same three passwords you used when hiding th
 5. click **Done**
 
 ![SS25](../05-Screenshots/ss25.png)
+
+---
+
+### Step 12: Recover the Message
+
+1. Navigate to **Desktop > Stegano-out**
+
+![SS26](../05-Screenshots/ss26.png)
 
