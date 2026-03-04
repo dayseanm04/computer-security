@@ -16,6 +16,6 @@
 
 > **Note:** If it says **Disabled**, you will need to reboot, enter your **BIOS or UEFI**, and turn on virtualization before proceeding.
 
-![SS1](/01-Images/1.png)
+![SS1](../01-Images/1.png)
 
 ---
