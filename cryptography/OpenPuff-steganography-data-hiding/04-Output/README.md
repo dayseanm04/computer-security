@@ -13,3 +13,14 @@ Contains the **carrier image with the hidden message embedded inside it**. This 
 Contains the **recovered secret message** extracted from the carrier image. This is the output from the Unhide process in OpenPuff. The recovered **`Message.zip`** is extracted here, which contains the original **`Message.txt`**.
 
 ---
+
+## 🔗 How It's Used
+
+- The **`stegano/`** output is generated in **Step 5** of [**`02-hide-message-with-OpenPuff.md`**](../01-Guide/02-hide-message-with-OpenPuff.md)
+- The `stegano-out/` output is generated in **Step 11** of [**`03-unhide-message-with-OpenPuff.md`**](../01-Guide/03-unhide-message-with-OpenPuff.md)
+
+---
+
+## Back to Repo
+
+[OpenPuff-steganography-data-hiding](../README.md)
