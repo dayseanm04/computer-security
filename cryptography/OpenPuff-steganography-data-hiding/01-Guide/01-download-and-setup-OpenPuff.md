@@ -94,4 +94,12 @@ mkdir Stegano-out
 
 ![SS8](../05-Screenshots/SS8.png)
 
----
+
+## Part A Complete
+
+You have successfully:
+- Downloaded and extracted OpenPuff
+- Created a secret message and zipped it
+- Created a `Stegano` and `Stegano-out` output folders
+
+Continue to **[Part B: Hide and Unhide Message](./02-hide-and-unhide-message.md)**
