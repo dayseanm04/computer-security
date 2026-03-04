@@ -78,3 +78,20 @@ You should now have both `Message.txt` and `Message.zip` in the same location.
 ![SS7](../05-Screenshots/SS7.png)
 
 ---
+
+## Step 6: Create Output Folders
+
+Open **PowerShell** and run the following commands to create the two folders needed for this project:
+
+```powershell
+cd Desktop
+mkdir Stegano
+mkdir Stegano-out
+```
+
+- **Stegano** folder is where the carrier file with the hidden message will be saved
+- **Stegano-out** fodler is where the recovered hidden message will be deposited
+
+![SS8](../05-Screenshots/SS8.png)
+
+---
