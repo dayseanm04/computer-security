@@ -74,6 +74,19 @@ Under section **(3)**:
 3. Click **OK**
 ![SS17](../05-Screenshots/ss17.png)
 ![SS18](../05-Screenshots/ss18.png)
-
 5. When the task completes, click **OK** on the confirmation dialog
-6. Read the task report, then click **Done**
+![SS19](../05-Screenshots/ss19.png)
+7. Read the task report, then click **Done**
+
+---
+
+### Step 6: Verify the Carrier File
+
+1. Navigate to your **Desktop > Stegano** folder
+2. Open **openPuff_Screenshot.png**
+![SS20](../05-Screenshots/ss20.png)
+
+**Can you detect anything different?** I cant detect anything different with the image it looks the same. (this is the point of steganography. The hidden message is invisible to the naked eye)
+
+
+
