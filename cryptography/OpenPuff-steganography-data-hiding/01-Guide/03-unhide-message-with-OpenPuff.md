@@ -75,3 +75,11 @@ Under section **(1)**, re-enter the same three passwords you used when hiding th
 
 ![SS27](../05-Screenshots/ss27.png)
 
+4. Double-click the extracted **Message** folder
+
+![SS28](../05-Screenshots/ss28.png)
+
+6. Open **Message.txt**
+
+![SS29](../05-Screenshots/ss29.png)
+
