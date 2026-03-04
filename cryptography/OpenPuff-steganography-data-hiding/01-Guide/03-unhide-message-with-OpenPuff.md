@@ -11,3 +11,10 @@ In this section, I will use **OpenPuff** to recover a hidden secret message insi
 2. You will be returned to the OpenPuff main menu
 
 ---
+
+### Step 2: Click Unhide
+
+1. From the main menu, click **Unhide**
+![SS21](../05-Screenshots/ss21.png)
+
+---
