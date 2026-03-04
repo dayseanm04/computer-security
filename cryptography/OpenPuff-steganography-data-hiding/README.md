@@ -27,3 +27,23 @@ Unlike **cryptography**, which scrambles a message so it cannot be read, **stega
 | PowerShell | Creating project folders |
 
 ---
+
+## How It Works
+
+**1. Hide**
+A secret message (**`Message.txt`**) is zipped and embedded into a carrier image (**`openPuff_Screenshot.png`**) using three different password in OpenPuff. The output image is visually identical to the original.
+
+**2. Unhide**
+Using the same three passwords and the carrier image, OpenPuff extracts and recovers the original **`Message.zip`**, which is then unzipped to reveal the secret message.
+
+---
+
+## Step-by-Step Guide
+
+| Step | Guide |
+|------|-------|
+| 1 | [**Download and Setup OpenPuff**](./01-Guide/01-download-and-setup-OpenPuff.md) |
+| 2 | [**Hide Message with OpenPuff**](./01-Guide/02-hide-message-with-OpenPuff.md) |
+| 3 | [**Unhide Message with OpenPuff**](./01-Guide/03-unhide-message-with-OpenPuff.md) |
+
+---
