@@ -22,4 +22,10 @@ In this section, I will download OpenPuff, set up the required files and folders
 
 ![SS1](../05-Screenshots/SS3.png)
 
+
 ---
+
+## Step 2: Take a Screenshot (Carrier File)
+
+1. Take a screenshot of the OpenPuff download page
+2. Save it as **openPuff_Screenshot.jpg**, this will be the **carrier file** that will contain the hidden message
