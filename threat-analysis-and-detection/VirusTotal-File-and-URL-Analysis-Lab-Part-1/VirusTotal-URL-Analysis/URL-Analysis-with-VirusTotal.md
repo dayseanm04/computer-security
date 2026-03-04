@@ -16,4 +16,6 @@ Returned to the VirusTotal home page using the browser's back button after compl
 - Navigated to [**`virustotal.com`**](https://www.virustotal.com/gui/home/upload)
 - Clicked the **URL** tab
 
+![SS11](/threat-analysis-and-detection/VirusTotal-File-and-URL-Analysis-Lab-Part-1/Screenshots/SS11.png)
+
 
