@@ -51,3 +51,10 @@ Using the same three passwords and the carrier image, OpenPuff extracts and reco
 ## Key Takeaway
 
 > Steganography is a technique used in both **cybersecurity defense** and **threat actor tactics**. Understanding how data can be hidden inside ordinary files is essential knowledge for anyone working in security, digital forensics, or threat analysis.
+
+## Author
+
+**Daysean Mensah**  
+Computer Systems student with a concentration in Network & Security. Passionate about threat analysis, security awareness, and building practical, real-world skills through hands-on labs and projects.
+
+This project was completed as part of my personal cybersecurity learning journey.
