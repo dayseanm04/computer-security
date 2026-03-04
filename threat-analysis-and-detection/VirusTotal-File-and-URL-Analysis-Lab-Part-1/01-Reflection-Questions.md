@@ -7,4 +7,6 @@ clean or suspicious.
 
 Security research can use Virus total to scan for malware or viruses and learn more about it.
 
+**Could attackers use VirusTotal to test their own malicious URLs?**
 
+Yes, attackers can use it to test their own malware before distributing it to see if it bypasses detection. A protection for that will be to use other Anti Virus/Malware tools. Security researchers or the Cyber Security teams can test unsafe files using an isolated sandbox.
