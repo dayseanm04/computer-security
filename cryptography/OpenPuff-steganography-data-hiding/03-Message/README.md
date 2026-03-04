@@ -35,4 +35,4 @@ OpenPuff requires the message to be in a **zip format** before it can be embedde
 
 ## Back to Repo
 
-[OpenPuff-steganography-data-hiding](../README.md)
+[**`OpenPuff-steganography-data-hiding`**](../README.md)
