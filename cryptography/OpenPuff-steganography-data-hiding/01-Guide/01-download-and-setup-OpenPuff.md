@@ -16,11 +16,11 @@ In this section, I will download OpenPuff, set up the required files and folders
 
 4. Click **Download binary for Windows/Linux**
 
-![SS1](../05-Screenshots/SS2.png)
+![SS2](../05-Screenshots/SS2.png)
 
 6. When the payment page appears, click the **.ZIP link** to download for free without submitting a payment
 
-![SS1](../05-Screenshots/SS3.png)
+![SS3](../05-Screenshots/SS3.png)
 
 
 ---
@@ -29,3 +29,5 @@ In this section, I will download OpenPuff, set up the required files and folders
 
 1. Take a screenshot of the OpenPuff download page
 2. Save it as **openPuff_Screenshot.jpg**, this will be the **carrier file** that will contain the hidden message
+
+![CI-SS2](../02-Carrier/openPuff_Screenshot.png)
