@@ -6,7 +6,13 @@ A hands-on cybersecurity lab demonstrating how to use **VirusTotal** to analyze 
 
 ## Objective
 
-Use VirusTotal to perform both file-based and URL-based threat analysis, interpret scan results from multiple antivirus engines.
+- Perform file analysis using VirusTotal
+- Analyze URL
+- Interpret multi-engine antivirus scan results
+- Evaluate the effectiveness and limitations of public malware scanning platforms
+- Understand how threat intelligence tools are used by defenders, and potentially abused by attackers
+
+---
 
 
 ## Tools Used
@@ -15,6 +21,7 @@ Use VirusTotal to perform both file-based and URL-based threat analysis, interpr
 |------|---------|
 | [**`VirusTotal`**](https://www.virustotal.com) | File and URL threat analysis |
 | Web Browser | Accessing the VirusTotal platform |
+| Microsoft Word | file creation for test upload |
 
 ---
 
