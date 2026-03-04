@@ -46,3 +46,10 @@ Scrolled through the full list of vendor analysis results.
 ![SS14](/threat-analysis-and-detection/VirusTotal-File-and-URL-Analysis-Lab-Part-1/Screenshots/SS14.png)
 
 ---
+
+
+## Key Findings
+
+- The URL **`https://www.citytech.cuny.edu/`** was flagged as clean by the vast majority of the 94 vendors polled.
+- About **30% of vendors returned Unrated**, meaning they simply don't have the site in their database yet, this does not indicate malicious activity.
+- Multiple vendors correctly categorized the site as an **educational institution**, confirming it is a known, legitimate domain.
