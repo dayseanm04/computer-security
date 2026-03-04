@@ -48,4 +48,21 @@ In this section, I will download OpenPuff, set up the required files and folders
 ![SS5](../05-Screenshots/SS5.png)
 
 
+---
+
+## Step 4: Create the Secret Message
+
+1. Open **Notepad**
+2. Type the following:
+   ```
+   This is a secret message
+   ```
+3. Save the file as **Message.txt**
+4. Close Notepad
+
+**Note:** In lab/project I saved it to the **Desktop**
+
+![SS5](../05-Screenshots/SS6.png)
+
+---
 
