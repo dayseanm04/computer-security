@@ -16,8 +16,8 @@ These settings help users detect **weak or compromised passwords**, control stor
 
 ![SS1](Screenshots/SS1.png)
 
-2. Clicked the **three-dot menu** in the top-right corner
-3. Clicked **Settings**
+2. Click the **three-dot menu** in the top-right corner
+3. Click **Settings**
 
 Or go to: chrome://settings/
 
@@ -30,7 +30,7 @@ From the settings menu:
 ![SS3](Screenshots/SS3.png)
 Note: Ive split my screen into 2 thats why I have the 3 horizontal lines but if your in full screen you will see the menu on the left side
 
-2. Selected **Passwords and Autofill**
+2. Select **Passwords and Autofill**
 
 ![SS4](Screenshots/SS4.png)
 
@@ -38,11 +38,11 @@ Note: Ive split my screen into 2 thats why I have the 3 horizontal lines but if 
 
 ## Step 2: Check for compromised passwords
 
-1. Clicked on **Google Password Manager**
+1. Click on **Google Password Manager**
 
 ![SS5](Screenshots/SS5.png)
 
-2. Clicked **Check passwords**
+2. Click **Check passwords**
 
 Note: if you dont have any saved password nonthing will show
 
@@ -144,3 +144,9 @@ You can remove all stored credentials and passkeys by selecting: **Delete data**
 Chrome allows users to save payment methods for faster checkout.
 
 To review payment settings: go to **chrome://settings/autofill**
+
+![SS4](Screenshots/SS4.png)
+
+Then select: **Payment methods**
+
+Note: I don't have any payment methods saved. 
