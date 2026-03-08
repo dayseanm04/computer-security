@@ -33,3 +33,6 @@ Note: Ive split my screen into 2 thats why I have the 3 horizontal lines but if 
 ![SS4](Screenshots/SS4.png)
 
 ---
+
+## Step 2: Check for compromised passwords
+
