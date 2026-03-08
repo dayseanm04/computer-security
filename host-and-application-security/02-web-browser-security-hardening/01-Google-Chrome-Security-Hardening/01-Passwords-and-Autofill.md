@@ -104,3 +104,8 @@ Recommended password best practices include:
 
 Do not include something like your, name, birthday, pet name etc.
 
+# Password Manager Settings Review
+
+
+
+
