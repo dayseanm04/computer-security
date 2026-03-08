@@ -129,7 +129,10 @@ Check Enhanced protection. This uses AI-powered protection against dangerous sit
 
 This setting ensures Chrome warns users before visiting websites that do not use encrypted connections.
 
+## Step 7: Data Breach Password Warnings
 
+1. Scroll down under **chrome://settings/security**
+2. Under advanced check **Warn you if a password was compromised in a data breach**
 
 
   
