@@ -106,6 +106,9 @@ Do not include something like your, name, birthday, pet name etc.
 
 # Password Manager Settings Review
 
+1. Clicked the 3 horizontal lines on the top left and click settings
+
+![SS9](Screenshots/SS9.png)
 
 
 
