@@ -73,4 +73,12 @@ Note: most website uses thrif-party cookies, If necessary, specific websites can
 
 ![SS25](Screenshots/SS25.png)
 
+## Step 3: Site Data and Permissions
+
+Chrome allows users to view and manage stored site data and permissions.
+
+To review site data:
+
+1. Click on **See all site data and permissions**
+
 
