@@ -150,5 +150,35 @@ Back in **chrome://settings/privacy**
 
 4. Click on **Pop-up and redirects**
 
-![SS33](Screenshots/SS33.png)
+![SS33](Screenshots/ss33.png)
 
+1. Enable **Don't allow sites to send pop-ups or use redirects**
+
+Specific sites can be added to an **allow list** if pop-ups are required for legitimate functionality.
+
+---
+
+# Security Recommendations
+
+- Regularly clear browsing data
+- Block third-party cookies if necessary
+- Enable **Enhanced Safe Browsing protection**
+- Enforce **secure HTTPS connections**
+- Enable **password breach warnings**
+- Block unnecessary pop-ups and redirects
+- Periodically review site permissions and stored data
+
+These settings help reduce the attack surface of the web browser and protect user privacy.
+
+---
+
+# Conclusion
+
+The **Privacy and Security configuration review** focused on strengthening browser protections against malicious websites, tracking technologies, and insecure connections.
+
+By properly configuring these settings, users can significantly improve their protection against:
+
+- Malware downloads
+- Tracking
+
+These configurations are an important component of **browser security hardening and safe web browsing practices**.
