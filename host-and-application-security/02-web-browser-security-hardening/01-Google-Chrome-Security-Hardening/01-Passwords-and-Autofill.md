@@ -60,4 +60,7 @@ During the password security check, Chrome identified a **compromised password**
 For demonstration purposes, I intentionally created this weak password for demonstration to trigger this alert.
 
 ![SS7i](Screenshots/SS7i.png)
+![SS7ii](Screenshots/SS7ii.png)
+
+### Fix
 
