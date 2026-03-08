@@ -36,3 +36,6 @@ Note: Ive split my screen into 2 thats why I have the 3 horizontal lines but if 
 
 ## Step 2: Check for compromised passwords
 
+1. Clicked on **Google Password Manager**
+
+![SS5](Screenshots/SS5.png)
