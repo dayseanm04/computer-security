@@ -133,3 +133,6 @@ On-device encryption adds an additional security layer.
 
 Chrome also provides the option to delete stored credentials.
 
+You can remove all stored credentials and passkeys by selecting: **Delete data**
+
+![SS10](Screenshots/SS10.png)
