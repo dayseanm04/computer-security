@@ -132,7 +132,17 @@ This setting ensures Chrome warns users before visiting websites that do not use
 ## Step 7: Data Breach Password Warnings
 
 1. Scroll down under **chrome://settings/security**
-2. Under advanced check **Warn you if a password was compromised in a data breach**
+2. Under advanced enable **Warn you if a password was compromised in a data breach**
+
+![SS31](Screenshots/SS31.png)
+
+## Step 8: Pop-ups and Redirect Protection
+
+Back in **chrome://settings/privacy**
+
+![SS20](Screenshots/SS20.png)
+
+1. Click on **Site settings**
 
 
   
