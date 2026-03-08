@@ -41,3 +41,9 @@ Note: Ive split my screen into 2 thats why I have the 3 horizontal lines but if 
 
 ![SS22](Screenshots/SS22.png)
 
+4. Click **Show more**
+5. Select all available options
+6. Click **Delete data**
+
+![SS23](Screenshots/SS23.png)
+
