@@ -6,6 +6,8 @@ In this section of the lab, I reviewed and configured **Google Chrome’s Privac
 
 ---
 
+# Accessing Privacy and Security Settings
+
 1. Open **Google Chrome**
 
 ![SS1](Screenshots/SS1.png)
