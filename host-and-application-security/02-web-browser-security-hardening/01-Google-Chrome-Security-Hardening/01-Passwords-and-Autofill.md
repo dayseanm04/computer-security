@@ -82,3 +82,13 @@ Weak passwords increase the risk of:
 
 ### Fix
 
+1. Clicked on **2 weak passwords**
+
+![SS8](Screenshots/SS8.png)
+
+2. Click **Change password**
+3. Chrome redirects to the associated website
+4. Update the password with a **strong and unique password**
+5. Then upddate the new passsword in password manager
+
+
