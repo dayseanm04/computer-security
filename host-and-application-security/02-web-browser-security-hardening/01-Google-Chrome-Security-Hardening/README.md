@@ -49,3 +49,23 @@ This lab focuses on the following browser security controls:
 - Enhanced Safe Browsing protection
 - Detection of malicious websites
 
+### Secure Connections
+
+- Enforcing HTTPS connections
+- Warning users about insecure sites
+
+### Browser Hardening
+
+- Pop-up and redirect blocking
+- Autofill data management
+- Payment and address autofill security
+
+---
+
+# Screenshots
+
+Screenshots referenced in the lab can be found in the **screenshots folder**.
+
+```
+screenshots/
+```
