@@ -8,7 +8,7 @@ These settings help users detect **weak or compromised passwords**, control stor
 
 ---
 
-## Accessing Chrome Password and Autofill Settings
+## Step 1: Accessing Chrome Password and Autofill Settings
 
 1. Open **Google Chrome**
 
