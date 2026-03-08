@@ -27,3 +27,25 @@ The following sections document the steps taken to secure Google Chrome.
 | [**`02 – Privacy and Security Settings`**](02-Chrome-Privacy-and-Security-Settings.md) | Configures Safe Browsing protection, cookie controls, HTTPS enforcement, and pop-up protections |
 
 ---
+
+# Security Areas Covered
+
+This lab focuses on the following browser security controls:
+
+### Credential Protection
+
+- Password breach detection
+- Weak password identification
+- Secure password management
+
+### Privacy Protection
+
+- Blocking third-party cookies
+- Managing site permissions
+- Reviewing stored site data
+
+### Secure Browsing
+
+- Enhanced Safe Browsing protection
+- Detection of malicious websites
+
