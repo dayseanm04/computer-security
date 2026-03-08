@@ -39,3 +39,14 @@ Note: Ive split my screen into 2 thats why I have the 3 horizontal lines but if 
 1. Clicked on **Google Password Manager**
 
 ![SS5](Screenshots/SS5.png)
+
+Note: if you dont have any saved password nonthing will show
+
+2. Clicked **Check passwords**
+
+Chrome scans stored credentials and identifies:
+
+- **Compromised passwords**
+- **Weak passwords**
+
+
