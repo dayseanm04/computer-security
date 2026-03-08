@@ -150,3 +150,6 @@ To review payment settings: go to **chrome://settings/autofill**
 Then select: **Payment methods**
 
 Note: I don't have any payment methods saved. 
+
+![SS11](Screenshots/SS11.png)
+
