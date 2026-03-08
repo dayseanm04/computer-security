@@ -114,5 +114,8 @@ Chrome provides **Safe Browsing protection** to detect dangerous websites and do
 
 ![SS20](Screenshots/SS20.png)
 
+Check Enhanced protection. This uses AI-powered protection against dangerous sites
+
+![SS29](Screenshots/SS29.png)
 
 
