@@ -85,3 +85,20 @@ To review site data:
 
 ![SS26](Screenshots/SS26.png)
 
+2. Click the delete logo on the right 
+
+![SS27](Screenshots/SS27.png)
+
+
+## Step 4: Ad Privacy Settings
+
+Chrome includes advertising privacy controls that manage how ads are measured and displayed.
+
+To access these settings: 
+
+1. Go to **chrome://settings/privacy**
+2. Click **Ad privacy**
+3. Click **Ad measurement**
+
+![SS28](Screenshots/SS28.png)
+
