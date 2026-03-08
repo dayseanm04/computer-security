@@ -65,7 +65,3 @@ This lab focuses on the following browser security controls:
 # Screenshots
 
 Screenshots referenced in the lab can be found in the **screenshots folder**.
-
-```
-screenshots/
-```
