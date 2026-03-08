@@ -67,4 +67,5 @@ For demonstration purposes, I intentionally created this weak password for demon
 2. Click **Change password**
 3. Chrome redirects to the associated website
 4. Update the password with a **strong and unique password**
+5. Then upddate the new passsword in password manager
 
