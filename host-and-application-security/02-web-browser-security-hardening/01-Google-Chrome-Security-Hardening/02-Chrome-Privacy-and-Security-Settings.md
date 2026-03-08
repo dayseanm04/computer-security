@@ -47,3 +47,18 @@ Note: Ive split my screen into 2 thats why I have the 3 horizontal lines but if 
 
 ![SS23](Screenshots/SS23.png)
 
+If you share your computer with someone I recommend you do this after you're done using your computer.
+
+---
+
+# Third-Party Cookie Protection
+
+Third-party cookies are commonly used for:
+
+- User tracking
+- Advertising
+- Behavioral analytics
+
+
+
+
