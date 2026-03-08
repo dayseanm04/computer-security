@@ -102,3 +102,17 @@ To access these settings:
 
 ![SS28](Screenshots/SS28.png)
 
+Disabling ad measurement reduces data sharing used for advertising analytics.
+
+## Step 5: Enhanced Safe Browsing Protection
+
+Back in **chrome://settings/privacy**
+
+Chrome provides **Safe Browsing protection** to detect dangerous websites and downloads.
+
+1. Click on Security
+
+![SS20](Screenshots/SS20.png)
+
+
+
