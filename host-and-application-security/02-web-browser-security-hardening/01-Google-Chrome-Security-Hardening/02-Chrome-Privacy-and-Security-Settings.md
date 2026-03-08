@@ -36,4 +36,8 @@ Note: Ive split my screen into 2 thats why I have the 3 horizontal lines but if 
 
 ![SS21](Screenshots/SS21.png)
 
+2. Select **More**
+3. Change the time range to **All time**
+
+![SS22](Screenshots/SS22.png)
 
