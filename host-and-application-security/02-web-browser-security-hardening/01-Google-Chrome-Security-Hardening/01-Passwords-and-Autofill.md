@@ -40,9 +40,9 @@ Note: Ive split my screen into 2 thats why I have the 3 horizontal lines but if 
 
 ![SS5](Screenshots/SS5.png)
 
-Note: if you dont have any saved password nonthing will show
-
 2. Clicked **Check passwords**
+
+Note: if you dont have any saved password nonthing will show
 
 Chrome scans stored credentials and identifies:
 
