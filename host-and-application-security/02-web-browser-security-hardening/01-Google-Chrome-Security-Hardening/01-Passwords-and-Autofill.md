@@ -14,5 +14,9 @@ These settings help users detect **weak or compromised passwords**, control stor
 
 ![SS1](Screenshots/SS1.png)
 
-3. Click the **three-dot menu** in the top-right corner
-4. Click **Settings**
+2. Click the **three-dot menu** in the top-right corner
+3. Click **Settings**
+
+Or go to: chrome://settings/
+
+![SS2](Screenshots/SS2.png)
