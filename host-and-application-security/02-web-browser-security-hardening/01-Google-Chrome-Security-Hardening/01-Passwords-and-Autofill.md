@@ -179,3 +179,23 @@ Note: I don't have any addresses saved. I turned these options off. I wouldn't r
 - Turn off **Save and fill addresses**
 - Turn off **Use and save Addresses from your Google Account**
 
+---
+
+# Security Recommendations
+
+- Regularly run **password security checks**
+- Immediately update **compromised or weak passwords**
+- Avoid storing passwords on **shared computers**
+- Enable **identity verification for payment autofill**
+- Disable unnecessary **autofill data storage**
+- Consider using a **dedicated password manager**
+
+Implementing these controls improves browser security and helps protect user credentials from compromise.
+
+---
+
+# Conclusion
+
+The **Passwords and Autofill security review** focused on identifying weak or compromised credentials and limiting the storage of sensitive personal data in the browser.
+
+These controls form an important part of **browser security hardening and user data protection**.
