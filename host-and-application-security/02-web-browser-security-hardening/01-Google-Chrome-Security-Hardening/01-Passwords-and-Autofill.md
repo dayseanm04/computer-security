@@ -91,4 +91,14 @@ Weak passwords increase the risk of:
 4. Update the password with a **strong and unique password**
 5. Then upddate the new passsword in password manager
 
+Recommended password best practices include:
+
+- Minimum **12–16 characters**
+- Use of **uppercase letters**
+- **Lowercase letters**
+- **Numbers**
+- **Special characters**
+
+
+Do not include something like your, name, birthday, pet name etc.
 
