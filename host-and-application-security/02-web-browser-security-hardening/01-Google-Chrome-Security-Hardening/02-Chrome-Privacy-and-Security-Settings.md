@@ -65,3 +65,7 @@ Back in **chrome://settings/privacy**
 
 1. Click on **Third-party cookies**
 
+![SS24](Screenshots/SS24.png)
+
+3. Select **Block third-party cookies**
+
