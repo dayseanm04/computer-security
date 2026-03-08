@@ -118,4 +118,14 @@ Check Enhanced protection. This uses AI-powered protection against dangerous sit
 
 ![SS29](Screenshots/SS29.png)
 
+## Step 6: Secure Connection Enforcement
 
+1. Scroll down under **chrome://settings/security**
+
+![SS30](Screenshots/SS30.png)
+
+
+
+
+
+  
