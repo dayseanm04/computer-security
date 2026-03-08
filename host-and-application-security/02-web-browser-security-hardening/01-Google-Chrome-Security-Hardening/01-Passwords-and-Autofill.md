@@ -143,11 +143,13 @@ You can remove all stored credentials and passkeys by selecting: **Delete data**
 
 Chrome allows users to save payment methods for faster checkout.
 
-To review payment settings: go to **chrome://settings/autofill**
+To review payment settings
+
+1. Go to **chrome://settings/autofill**
 
 ![SS4](Screenshots/SS4.png)
 
-Then select: **Payment methods**
+2. Then select: **Payment methods**
 
 Note: I don't have any payment methods saved. If payment methods are stored, enabling the following security option is recommended:
 
@@ -158,4 +160,17 @@ This ensures that Chrome confirms the user's identity before automatically filli
 ![SS11](Screenshots/SS11.png)
 
 If you share a computer with other people I wouldn't recommend you save password, payments and addresses on that shared computer. You should save passwords on an online password manager.
+
+---
+
+# Address Autofill Settings
+
+Chrome can also store address information for form autofill.
+
+1. To Addresses and more go to **chrome://settings/autofill**
+
+![SS4](Screenshots/SS4.png)
+
+2. Click on Addresses and more
+
 
