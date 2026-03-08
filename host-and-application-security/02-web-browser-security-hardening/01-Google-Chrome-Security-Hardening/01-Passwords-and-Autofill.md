@@ -14,9 +14,20 @@ These settings help users detect **weak or compromised passwords**, control stor
 
 ![SS1](Screenshots/SS1.png)
 
-2. Click the **three-dot menu** in the top-right corner
-3. Click **Settings**
+2. Clicked the **three-dot menu** in the top-right corner
+3. Clicked **Settings**
 
 Or go to: chrome://settings/
 
 ![SS2](Screenshots/SS2.png)
+
+From the settings menu:
+
+1. Click the **menu icon (three horizontal lines)** in the top-left corner
+
+![SS3](Screenshots/SS3.png)
+
+
+2. Select **Passwords and Autofill**
+
+---
