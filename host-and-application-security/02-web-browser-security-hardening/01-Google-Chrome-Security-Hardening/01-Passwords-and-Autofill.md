@@ -49,4 +49,7 @@ Chrome scans stored credentials and identifies:
 - **Compromised passwords**
 - **Weak passwords**
 
+**Results:**
+
+![SS6](Screenshots/SS6.png)
 
