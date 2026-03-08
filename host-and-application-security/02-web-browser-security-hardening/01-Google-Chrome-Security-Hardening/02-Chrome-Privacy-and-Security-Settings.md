@@ -144,8 +144,11 @@ Back in **chrome://settings/privacy**
 
 1. Click on **Site settings**
 2. You can see recent activity and Permissions in this page
-3. Scoll down to content
+3. Scroll down to content
 
 ![SS32](Screenshots/SS32.png)
 
-  
+4. Click on **Pop-up and redirects**
+
+![SS33](Screenshots/SS33.png)
+
