@@ -136,3 +136,11 @@ Chrome also provides the option to delete stored credentials.
 You can remove all stored credentials and passkeys by selecting: **Delete data**
 
 ![SS10](Screenshots/SS10.png)
+
+---
+
+# Secure Payment Methods
+
+Chrome allows users to save payment methods for faster checkout.
+
+To review payment settings: go to **chrome://settings/autofill**
