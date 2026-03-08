@@ -149,12 +149,13 @@ To review payment settings: go to **chrome://settings/autofill**
 
 Then select: **Payment methods**
 
-Note: I don't have any payment methods saved.If payment methods are stored, enabling the following security option is recommended:
+Note: I don't have any payment methods saved. If payment methods are stored, enabling the following security option is recommended:
 
 **Verify it’s you to autofill payment methods**
 
 This ensures that Chrome confirms the user's identity before automatically filling payment information.
 
-
 ![SS11](Screenshots/SS11.png)
+
+If you share a computer with other people I wouldn't recommend you save password, payments and addresses on that shared computer. You should save passwords on an online password manager.
 
