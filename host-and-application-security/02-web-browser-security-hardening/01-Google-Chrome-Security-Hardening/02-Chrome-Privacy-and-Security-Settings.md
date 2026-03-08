@@ -83,4 +83,5 @@ To review site data:
 
 1. Click on **See all site data and permissions**
 
+![SS26](Screenshots/SS26.png)
 
