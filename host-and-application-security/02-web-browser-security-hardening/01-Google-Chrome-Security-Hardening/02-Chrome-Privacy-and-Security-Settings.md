@@ -26,6 +26,14 @@ Note: Ive split my screen into 2 thats why I have the 3 horizontal lines but if 
 
 2. Select **Privacy and Security**
 
+![SS20](Screenshots/SS20.png)
+
 ---
 
 ## Clearing Browsing Data
+
+1. Click **Delete browsing data**
+
+![SS21](Screenshots/SS21.png)
+
+
