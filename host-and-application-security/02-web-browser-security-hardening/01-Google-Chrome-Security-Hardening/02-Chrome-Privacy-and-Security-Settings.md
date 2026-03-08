@@ -143,6 +143,9 @@ Back in **chrome://settings/privacy**
 ![SS20](Screenshots/SS20.png)
 
 1. Click on **Site settings**
+2. You can see recent activity and Permissions in this page
+3. Scoll down to content
 
+![SS32](Screenshots/SS32.png)
 
   
