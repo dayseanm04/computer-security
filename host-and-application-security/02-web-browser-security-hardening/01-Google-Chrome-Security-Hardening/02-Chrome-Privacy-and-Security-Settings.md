@@ -23,3 +23,9 @@ From the settings menu:
 
 ![SS3](Screenshots/SS3.png)
 Note: Ive split my screen into 2 thats why I have the 3 horizontal lines but if your in full screen you will see the menu on the left side
+
+2. Select **Privacy and Security**
+
+---
+
+## Clearing Browsing Data
