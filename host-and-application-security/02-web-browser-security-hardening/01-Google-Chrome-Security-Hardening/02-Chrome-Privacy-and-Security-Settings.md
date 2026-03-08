@@ -59,6 +59,7 @@ Third-party cookies are commonly used for:
 - Advertising
 - Behavioral analytics
 
+Back in **chrome://settings/privacy**
 
 
 
