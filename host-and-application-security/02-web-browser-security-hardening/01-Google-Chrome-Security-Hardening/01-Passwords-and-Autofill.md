@@ -73,3 +73,12 @@ For demonstration purposes, I intentionally created this weak password for demon
 
 Chrome also flagged **weak passwords** stored in the browser.
 
+Weak passwords increase the risk of:
+
+- Account compromise
+- Brute-force attacks
+
+![SS6](Screenshots/SS6.png)
+
+### Fix
+
