@@ -109,6 +109,27 @@ Do not include something like your, name, birthday, pet name etc.
 1. Clicked the 3 horizontal lines on the top left and click settings
 
 ![SS9](Screenshots/SS9.png)
+![SS9i](Screenshots/SS9I.png)
 
+The first four options are **enabled by default**, which improves overall password security.
 
+These features allow Chrome to:
+
+- Save passwords securely
+- Autofill credentials on websites
+- Detect compromised passwords
+
+Additional available features include:
+
+- **Import passwords**
+- **Export passwords**
+- **On-device encryption for password protection**
+
+On-device encryption adds an additional security layer.
+
+---
+
+# Password Data Management
+
+Chrome also provides the option to delete stored credentials.
 
