@@ -19,7 +19,7 @@ These settings help users detect **weak or compromised passwords**, control stor
 2. Click the **three-dot menu** in the top-right corner
 3. Click **Settings**
 
-Or go to: chrome://settings/
+Or go to: **chrome://settings/**
 
 ![SS2](Screenshots/SS2.png)
 
