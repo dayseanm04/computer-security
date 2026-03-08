@@ -23,11 +23,13 @@ Or go to: chrome://settings/
 
 From the settings menu:
 
-1. Click the **menu icon (three horizontal lines)** in the top-left corner
+1. Clicked the **menu icon (three horizontal lines)** in the top-left corner
 
 ![SS3](Screenshots/SS3.png)
+Note: Ive split my screen into 2 thats why I have the 3 horizontal lines but if your in full screen you will see the menu on the left side
 
+2. Selected **Passwords and Autofill**
 
-2. Select **Passwords and Autofill**
+![SS4](Screenshots/SS4.png)
 
 ---
