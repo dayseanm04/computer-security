@@ -173,4 +173,9 @@ Chrome can also store address information for form autofill.
 
 2. Click on Addresses and more
 
+![SS12](Screenshots/SS122.png)
+
+Note: I don't have any addresses saved. I turned these options off. I wouldn't recommend you save addresses on your computer.
+- Turn off **Save and fill addresses**
+- Turn off **Use and save Addresses from your Google Account**
 
