@@ -124,6 +124,10 @@ Check Enhanced protection. This uses AI-powered protection against dangerous sit
 
 ![SS30](Screenshots/SS30.png)
 
+2. Enable **Always use secure connections**
+3. Check **Warns you for insecure public & private sites**
+
+This setting ensures Chrome warns users before visiting websites that do not use encrypted connections.
 
 
 
