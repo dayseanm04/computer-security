@@ -69,3 +69,8 @@ Back in **chrome://settings/privacy**
 
 3. Select **Block third-party cookies**
 
+Note: most website uses thrif-party cookies, If necessary, specific websites can be added to an **allowed list**. See bellow
+
+![SS25](Screenshots/SS25.png)
+
+
