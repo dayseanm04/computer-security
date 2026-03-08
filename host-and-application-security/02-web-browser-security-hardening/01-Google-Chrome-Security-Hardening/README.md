@@ -24,6 +24,6 @@ The following sections document the steps taken to secure Google Chrome.
 | Section | Description |
 |--------|-------------|
 | [**`01 – Passwords and Autofill Security`**](01-Passwords-and-Autofill.md) | Reviews Chrome Password Manager, password breach detection, and autofill security settings |
-| [**`02 – Privacy and Security Settings`**](02-Privacy-and-Security.md) | Configures Safe Browsing protection, cookie controls, HTTPS enforcement, and pop-up protections |
+| [**`02 – Privacy and Security Settings`**](02-Chrome-Privacy-and-Security-Settings.md) | Configures Safe Browsing protection, cookie controls, HTTPS enforcement, and pop-up protections |
 
 ---
