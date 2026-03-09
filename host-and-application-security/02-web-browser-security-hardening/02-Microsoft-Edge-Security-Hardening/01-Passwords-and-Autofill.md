@@ -25,3 +25,9 @@ These settings help users detect **weak or compromised passwords**, control stor
 4. Select **Passwords and Autofill**
 
 ![SS4](Screenshots/SS4.png)
+
+---
+
+## Step 2: Check for compromised passwords
+
+
