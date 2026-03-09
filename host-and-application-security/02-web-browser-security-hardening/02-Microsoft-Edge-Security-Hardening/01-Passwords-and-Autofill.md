@@ -22,3 +22,6 @@ These settings help users detect **weak or compromised passwords**, control stor
 ![SS2](Screenshots/SS2.png)
 ![SS3](Screenshots/SS3.png)
 
+4. Select **Passwords and Autofill**
+
+![SS4](Screenshots/SS4.png)
