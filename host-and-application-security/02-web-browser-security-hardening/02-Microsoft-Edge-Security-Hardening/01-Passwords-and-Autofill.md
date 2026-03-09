@@ -36,10 +36,12 @@ These settings help users detect **weak or compromised passwords**, control stor
 
 2. Click on **Password security check**
 3. If it shows up: Enable **Check passwords for # sites and apps**
-4. Click **check**
 
 ![SS6](Screenshots/SS6.png)
 
+4. Click **check**
+
+![SS7](Screenshots/SS7.png)
 
 
 
