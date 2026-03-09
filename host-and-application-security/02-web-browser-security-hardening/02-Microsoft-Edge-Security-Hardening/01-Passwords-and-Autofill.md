@@ -42,6 +42,16 @@ These settings help users detect **weak or compromised passwords**, control stor
 4. Click **check**
 
 ![SS7](Screenshots/SS7.png)
+
+Note: if you dont have any saved password nonthing will show
+
+Microsoft Edge scans stored credentials and identifies:
+
+- **Weak passwords**
+- **Reused passwords**
+
+**Results:**
+
 ![SS7](Screenshots/ss7.png)
 
 
