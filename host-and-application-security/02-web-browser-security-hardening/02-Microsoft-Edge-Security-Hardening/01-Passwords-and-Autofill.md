@@ -20,4 +20,5 @@ These settings help users detect **weak or compromised passwords**, control stor
 3. Click **Settings**
 
 ![SS2](Screenshots/SS2.png)
+![SS3](Screenshots/SS3.png)
 
