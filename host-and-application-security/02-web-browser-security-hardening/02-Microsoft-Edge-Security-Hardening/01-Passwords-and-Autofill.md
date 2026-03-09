@@ -13,3 +13,5 @@ These settings help users detect **weak or compromised passwords**, control stor
 ## Step 1: Accessing Microsoft Edge Password and Autofill Settings
 
 1. Open **Microsoft Edge**
+
+![SS1](Screenshots/SS1.png)
