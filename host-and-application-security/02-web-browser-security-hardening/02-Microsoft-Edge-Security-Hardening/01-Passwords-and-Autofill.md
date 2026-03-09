@@ -32,4 +32,5 @@ These settings help users detect **weak or compromised passwords**, control stor
 
 1. Click on **Microsoft Password Manager**
 
+![SS5](Screenshots/SS5.png)
 
