@@ -15,3 +15,9 @@ These settings help users detect **weak or compromised passwords**, control stor
 1. Open **Microsoft Edge**
 
 ![SS1](Screenshots/SS1.png)
+
+2. Click the **three-dot menu** in the top-right corner
+3. Click **Settings**
+
+![SS2](Screenshots/SS2.png)
+
