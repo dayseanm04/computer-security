@@ -30,4 +30,6 @@ These settings help users detect **weak or compromised passwords**, control stor
 
 ## Step 2: Check for compromised passwords
 
+1. Click on **Microsoft Password Manager**
+
 
