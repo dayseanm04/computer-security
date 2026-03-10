@@ -99,7 +99,16 @@ Additional available features include:
 
 ![SS11](Screenshots/SS11.png)
 
+---
 
+# Secure Payment Methods
+
+Microsoft Edge allows users to save payment methods for faster checkout.
+
+1. Go back (click the back logo top left) or **edge://settings/autofill**
+2. Click **Payments methods**
+
+![SS12](Screenshots/SS12.png)
 
 
 
