@@ -30,11 +30,13 @@ In this section of the lab, I reviewed and configured **Microsoft Edge’s Priva
 1. Click **Clear browsing data**
 2. Select All time for Time range
 3. Scroll and check everything
-4. Then click **Clear Now**
+4. Then click **Clear now**
 
 ![SS15](Screenshots/SS15.png)
 
+In the Privacy, search, and services /Clear browsing data page or **edge://settings/privacy/clearBrowsingData**
 
+![SS16](Screenshots/SS16.png)
 
 
 
