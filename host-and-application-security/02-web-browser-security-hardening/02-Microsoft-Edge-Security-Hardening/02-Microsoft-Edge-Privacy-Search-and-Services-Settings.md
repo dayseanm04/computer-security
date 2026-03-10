@@ -54,6 +54,7 @@ Go back (click the back logo top left 2x) or go to **edge://settings/privacy**
 
 ![SS18](Screenshots/SS18.png)
 
+To disable Third party cookies click enable **Block third-party cookies**. They are usually used for tracking, advertising and analytics.
 
 
 
