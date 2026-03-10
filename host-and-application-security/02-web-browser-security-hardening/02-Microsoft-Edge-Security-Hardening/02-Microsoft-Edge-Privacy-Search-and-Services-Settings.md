@@ -84,9 +84,20 @@ Go back (click back logo 2x) or go to **edge://settings/privacy**
 
 ![SS21](Screenshots/SS21.png)
 
+Go back (click back logo)
 
+## Step 4: Security
 
+Click on **Security**
 
+![SS22](Screenshots/SS22.png)
+
+Enable:
+- **Protect from harmful sites and downloads**
+- **Block potentially unwanted apps**
+- **Websites typo protection**
+- **Automatically switch to more secure connections with Automatic HTTPS**
+- Select **Alerts for about insecure public and private sites**
 
 
 
