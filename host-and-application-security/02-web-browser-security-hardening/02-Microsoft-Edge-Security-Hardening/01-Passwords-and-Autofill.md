@@ -110,6 +110,10 @@ Microsoft Edge allows users to save payment methods for faster checkout.
 
 ![SS12](Screenshots/SS12.png)
 
+3. Disable **Save and fill payment methods**. I don't recommend you save payment methods.
+4. Disable **Allow sites to check if you have saved payment methods**.
+
+
 
 
 
