@@ -149,6 +149,7 @@ Click on **Search suggestions and filters**
 
 - Regularly clear browsing data
 - Block third-party cookies if necessary
+- Enforce **secure HTTPS connections**
 
-
+These settings help reduce the attack surface of the web browser and protect user privacy.
 
