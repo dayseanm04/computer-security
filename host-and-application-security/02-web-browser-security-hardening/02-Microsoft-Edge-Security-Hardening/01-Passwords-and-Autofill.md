@@ -54,6 +54,8 @@ Microsoft Edge scans stored credentials and identifies:
 
 ![SS7](Screenshots/ss7.png)
 
+For demonstration purposes, I intentionally created thesse weak password for demonstration to trigger this alert.
+
 
 
 
