@@ -137,6 +137,11 @@ In **edge://settings/privacy**
 
 - Here you can change your search engine here
 
+Click on **Search suggestions and filters**
+
+![SS27](Screenshots/SS27.png)
+
+- You can leave the options enabled.
 
 
 
