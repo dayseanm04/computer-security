@@ -66,7 +66,10 @@ Note: When clearning browsing data You can clear cookies also.
 ![SS15](Screenshots/SS15.png)
 
 
+Click on **See all cookies and site data.**
 
+![SS19](Screenshots/SS19.png)
+![SS20](Screenshots/SS20.png)
 
 
 
