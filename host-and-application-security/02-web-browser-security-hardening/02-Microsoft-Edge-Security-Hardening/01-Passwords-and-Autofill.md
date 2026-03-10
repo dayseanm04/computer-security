@@ -55,9 +55,14 @@ Microsoft Edge scans stored credentials and identifies:
 ![SS7](Screenshots/ss7.png)
 ![SS8](Screenshots/SS8.png)
 
-For demonstration purposes, I intentionally created thesse weak password for demonstration to trigger this alert.
+For demonstration purposes, I intentionally created thesse weak passwords for demonstration to trigger this alert.
 
-
+### Fix
+1. Click the Resused or Weak password entry
+2. Click **Change**
+3. Chrome redirects to the associated website
+4. Update the password with a **strong and unique password**
+5. Then update the new passsword in password manager
 
 
 
