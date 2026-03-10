@@ -44,8 +44,15 @@ In the **Privacy, search, and services /Clear browsing data** page or **edge://s
 
 2. Check everything (Do this if if you share your computer with someone)
 
+---
 
+## Step 2: Third-Party Cookie Protection
 
+Go back (click the back logo top left 2x) or go to **edge://settings/privacy**
+
+1. Click on Cookies
+
+![SS18](Screenshots/SS18.png)
 
 
 
