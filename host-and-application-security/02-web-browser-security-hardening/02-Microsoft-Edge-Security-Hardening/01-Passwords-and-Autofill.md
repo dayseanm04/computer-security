@@ -74,6 +74,9 @@ For demonstration purposes, I intentionally created thesse weak passwords for de
 
 ![SS9](Screenshots/SS9.png)
 
+3. First you can choose to enable **Ask to save passwords and passkeys**. If you enable it, it will save you time from manually typing your usernames and password everytime you login.  
+4. Enable **Autofill save passwords and passkeys**.
+5. Enable **Prompt for the device sign-in options before viewing or filling website password**. Enter your username and password when prompted. And choose **Always ask permission**, this will ask you for username and password before its autofill. 
 
 
 
