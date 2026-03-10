@@ -185,7 +185,7 @@ Note: I don't have any addresses saved. I turned these options off. I wouldn't r
 
 - Regularly run **password security checks**
 - Immediately update **compromised or weak passwords**
-- Avoid storing passwords on **shared computers**
+- Avoid storing passwords and payments on **shared computers**
 - Enable **identity verification for payment autofill**
 - Disable unnecessary **autofill data storage**
 - Consider using a **dedicated password manager**
