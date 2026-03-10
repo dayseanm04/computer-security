@@ -113,9 +113,16 @@ Microsoft Edge allows users to save payment methods for faster checkout.
 3. Disable **Save and fill payment methods**. I don't recommend you save payment methods.
 4. Disable **Allow sites to check if you have saved payment methods**.
 
+---
 
+# Address Autofill Settings
 
+Microsoft Edge can also store address information for form autofill.
 
+1. Go back (click the back logo top left) or **edge://settings/autofill**
+2. Click **Addresses and more**
+
+![SS13](Screenshots/SS13.png)
 
 
 
