@@ -99,7 +99,13 @@ Enable:
 - **Automatically switch to more secure connections with Automatic HTTPS**
 - Select **Alerts for about insecure public and private sites**
 
+Note if you have problems download something you can change these settings
 
+![SS23](Screenshots/ss23.png)
+
+- Enable **Scareware blocker**
+- Enable **Block sites detected as scams**
+- Enable **Share detection scame sites with Microsoft Defender SmartScreen**
 
 
 
