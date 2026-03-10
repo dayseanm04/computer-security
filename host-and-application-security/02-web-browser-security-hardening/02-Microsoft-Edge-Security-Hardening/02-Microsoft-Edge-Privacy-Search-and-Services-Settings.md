@@ -17,3 +17,7 @@ In this section of the lab, I reviewed and configured **Microsoft Edge’s Priva
 
 ![SS2](Screenshots/SS2.png)
 ![SS3](Screenshots/SS3.png)
+
+4. Click **Privacy, search, and services**
+
+
