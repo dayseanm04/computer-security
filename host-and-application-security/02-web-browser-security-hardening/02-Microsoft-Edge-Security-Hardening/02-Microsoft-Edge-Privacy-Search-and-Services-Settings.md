@@ -106,7 +106,10 @@ Note if you have problems download something you can change these settings
 - Enable **Scareware blocker**
 - Enable **Block sites detected as scams**
 - Enable **Share detection scame sites with Microsoft Defender SmartScreen**
-
+- Enable **Enhanced your security on the web**
+  - Under Enhanced your security on the web you can choose **Strict**, just know some sites may not work, if that happened change this setting back to **balanced**.
+- Enable Use Microsoft Edge Secure Network
+- You can set up Microsoft's **VPN**
 
 
 
