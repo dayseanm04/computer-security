@@ -13,7 +13,8 @@ In this section of the lab, I reviewed and configured **Microsoft Edge’s Priva
 ![SS1](Screenshots/SS1.png)
 
 2. Click the **three-dot menu** in the top-right corner
-3. Click **Settings**
+3. Click **Settings** Or go to: **edge://settings/profiles**
+
 
 ![SS2](Screenshots/SS2.png)
 ![SS3](Screenshots/SS3.png)
