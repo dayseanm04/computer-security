@@ -68,7 +68,7 @@ For demonstration purposes, I intentionally created thesse weak passwords for de
 
 1. Go back (click the back logo top left) or **edge://settings/autofill**
 
-![SS4](Screenshots/SS4.png)
+![SS5](Screenshots/SS5.png)
 
 
 
