@@ -20,4 +20,6 @@ In this section of the lab, I reviewed and configured **Microsoft Edge’s Priva
 
 4. Click **Privacy, search, and services**
 
+![SS14](Screenshots/SS14.png)
+
 
