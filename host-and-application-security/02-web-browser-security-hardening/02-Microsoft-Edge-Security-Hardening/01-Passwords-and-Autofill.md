@@ -86,9 +86,12 @@ Microsoft Edge also provides the option to delete stored credentials.
 
 1. In microsoft password manager or go to **edge://settings/autofill/passwords**
 
+![SS5](Screenshots/SS5.png)
 
+2. Click on an account
+3. Then Click Delete
 
-
+![SS10](Screenshots/SS10.png)
 
 
 
