@@ -64,6 +64,11 @@ For demonstration purposes, I intentionally created thesse weak passwords for de
 4. Update the password with a **strong and unique password**
 5. Then update the new passsword in password manager
 
+# Password Manager More settings Review
+
+1. Go back (click the back logo top left) or **edge://settings/autofill**
+
+![SS4](Screenshots/SS4.png)
 
 
 
