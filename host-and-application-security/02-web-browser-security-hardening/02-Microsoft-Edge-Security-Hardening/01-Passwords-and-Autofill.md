@@ -88,12 +88,16 @@ Microsoft Edge also provides the option to delete stored credentials.
 
 ![SS5](Screenshots/SS5.png)
 
-2. Click on an account
+2. Click on an entry (Facebook for example)
 3. Then Click Delete
 
 ![SS10](Screenshots/SS10.png)
 
+Additional available features include:
+- **Import passwords**
+- **Export passwords**
 
+![SS11](Screenshots/SS11.png)
 
 
 
