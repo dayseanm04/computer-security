@@ -107,10 +107,28 @@ Note if you have problems download something you can change these settings
 - Enable **Block sites detected as scams**
 - Enable **Share detection scame sites with Microsoft Defender SmartScreen**
 - Enable **Enhanced your security on the web**
-  - Under Enhanced your security on the web you can choose **Strict**, just know some sites may not work, if that happened change this setting back to **balanced**.
+  - Under Enhanced your security on the web you can choose **Strict**, just know some sites may not work, if that happens change this setting back to **balanced**.
 - Enable Use Microsoft Edge Secure Network
 - You can set up Microsoft's **VPN**
 
+- Click on **Site preferences for enhanced security**
+
+![SS24](Screenshots/SS24.png)
+
+- In **Site preferences for enhance security** you can configure sites to use with enhance security 
+
+
+## Step 5: Site perminssions
+
+1. Click on Sites permission to view or modify them
+
+## Step 6: Search and connected experiences
+
+In **edge://settings/privacy**
+
+1. Click on **Search and connected experiences**
+
+![SS25](Screenshots/SS25.png)
 
 
 
