@@ -124,7 +124,25 @@ Microsoft Edge can also store address information for form autofill.
 
 ![SS13](Screenshots/SS13.png)
 
+Note: I don't have any addresses saved. I recommend turned these options off. I wouldn't recommend you save addresses on your computer.
 
+---
 
+# Security Recommendations
 
+- Regularly run **password security checks**
+- Immediately update **compromised or weak passwords**
+- Avoid storing passwords and payments on **shared computers**
+- Disable **payment autofill**
+- Disable unnecessary **autofill data storage**
+- Consider using a **dedicated password manager**
 
+Implementing these controls improves browser security and helps protect user credentials from compromise.
+
+---
+
+# Conclusion
+
+The **Passwords and Autofill security review** focused on identifying weak or compromised credentials and limiting the storage of sensitive personal data in the browser.
+
+These controls form an important part of **browser security hardening and user data protection**.
