@@ -30,7 +30,7 @@ In this section of the lab, I reviewed and configured **Microsoft Edge’s Priva
 1. Click **Clear browsing data**
 2. Select All time for Time range
 3. Scroll and check everything
-4. Then click Clear now
+4. Then click **Clear Now**
 
 ![SS15](Screenshots/SS15.png)
 
