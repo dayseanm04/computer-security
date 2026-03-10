@@ -78,8 +78,13 @@ For demonstration purposes, I intentionally created thesse weak passwords for de
 4. Enable **Autofill save passwords and passkeys**.
 5. Enable **Prompt for the device sign-in options before viewing or filling website password**. Enter your username and password when prompted. And choose **Always ask permission**, this will ask you for username and password before its autofill. 
 
+---
 
+# Password Data Management
 
+Microsoft Edge also provides the option to delete stored credentials.
+
+1. In microsoft password manager or go to **edge://settings/autofill/passwords**
 
 
 
