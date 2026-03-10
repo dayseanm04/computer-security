@@ -130,6 +130,14 @@ In **edge://settings/privacy**
 
 ![SS25](Screenshots/SS25.png)
 
+- You can leave all these settings enabled
+- Click on **Address bar and search**
+
+![SS26](Screenshots/SS26.png)
+
+- Here you can change your search engine here
+
+
 
 
 
