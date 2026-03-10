@@ -164,7 +164,6 @@ Specific sites can be added to an **allow list** if pop-ups are required for leg
 - Block third-party cookies if necessary
 - Enable **Enhanced Safe Browsing protection**
 - Enforce **secure HTTPS connections**
-- Enable **password breach warnings**
 - Block unnecessary pop-ups and redirects
 - Periodically review site permissions and stored data
 
