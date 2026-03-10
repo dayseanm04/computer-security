@@ -70,7 +70,9 @@ For demonstration purposes, I intentionally created thesse weak passwords for de
 
 ![SS5](Screenshots/SS5.png)
 
+2. Click **More settings**
 
+![SS9](Screenshots/SS95.png)
 
 
 
