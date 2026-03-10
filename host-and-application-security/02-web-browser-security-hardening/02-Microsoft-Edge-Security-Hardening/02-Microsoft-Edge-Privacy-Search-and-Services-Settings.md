@@ -69,6 +69,9 @@ Note: When clearning browsing data You can clear cookies also.
 Click on **See all cookies and site data.**
 
 ![SS19](Screenshots/SS19.png)
+
+You can click on a site, expand and delete specific cookies
+
 ![SS20](Screenshots/SS20.png)
 
 
