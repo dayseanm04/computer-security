@@ -143,7 +143,12 @@ Click on **Search suggestions and filters**
 
 - You can leave the options enabled.
 
+---
 
+# Security Recommendations
+
+- Regularly clear browsing data
+- Block third-party cookies if necessary
 
 
 
