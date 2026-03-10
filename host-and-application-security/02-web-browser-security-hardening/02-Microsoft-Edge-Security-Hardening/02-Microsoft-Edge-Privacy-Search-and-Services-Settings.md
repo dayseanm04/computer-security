@@ -34,12 +34,15 @@ In this section of the lab, I reviewed and configured **Microsoft Edge’s Priva
 
 ![SS15](Screenshots/SS15.png)
 
-In the Privacy, search, and services /Clear browsing data page or **edge://settings/privacy/clearBrowsingData**
+In the **Privacy, search, and services /Clear browsing data** page or **edge://settings/privacy/clearBrowsingData**
 
 ![SS16](Screenshots/SS16.png)
 
+1. Click on **Choose what to clear every time you close the browser**. 
 
+![SS17](Screenshots/SS17.png)
 
+2. Check everything (Do this if if you share your computer with someone)
 
 
 
