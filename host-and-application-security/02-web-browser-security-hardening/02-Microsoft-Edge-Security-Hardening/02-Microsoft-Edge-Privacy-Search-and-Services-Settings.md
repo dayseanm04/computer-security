@@ -57,9 +57,9 @@ Go back (click the back logo top left 2x) or go to **edge://settings/privacy**
 To disable Third party cookies click enable **Block third-party cookies**. They are usually used for tracking, advertising and analytics.
 
 Under Customized cookies behavior you can add:
-- Sites that are not allowed to save and read cookies
-- Sites that are allowed to save cookies
-- Clear all cookies when you close Edge
+- **Sites that are not allowed to save and read cookies**
+- **Sites that are allowed to save cookies**
+- **Clear all cookies when you close Edge**
 
 Note: When clearning browsing data You can clear cookies also.
 
@@ -74,9 +74,15 @@ You can click on a site, expand and delete specific cookies
 
 ![SS20](Screenshots/SS20.png)
 
+Go back (click back logo 2x) or go to **edge://settings/privacy**
 
+## Step 3: Privacy
 
+1. Click on **Privacy**
+2. Enable **Send “Do Not Track” requests**, then click send request
+3. You can enable the last two if you want they are for your personalization
 
+![SS21](Screenshots/SS21.png)
 
 
 
