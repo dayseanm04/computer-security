@@ -23,4 +23,8 @@ In this section of the lab, I reviewed and configured **Microsoft Edge’s Priva
 
 ![SS14](Screenshots/SS14.png)
 
+---
 
+## Step 1: Clearing Browsing Data
+
+1. Click **Clear browsing data**
