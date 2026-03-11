@@ -34,8 +34,27 @@ The following sections document the security configurations performed during thi
 This lab focuses on the following Microsoft Edge security features.
 
 ### Credential Protection
-
 - Password manager review
 - Weak and reused password detection
 - Secure password storage
+
+### Privacy Protection
+- Tracking prevention
+- Cookie management
+- Site permission review
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
