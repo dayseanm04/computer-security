@@ -35,7 +35,6 @@ In this section of the lab, I reviewed and configured **Microsoft Edge’s Priva
 4. Enable **Always use "Strict" tracking prevention when browsing InPrivate**
 5. You can add **Exceptions**
 
-
 ---
 
 ## Step 2: Clearing Browsing Data
