@@ -36,5 +36,6 @@ This lab focuses on the following Microsoft Edge security features.
 ### Credential Protection
 
 - Password manager review
-
+- Weak and reused password detection
+- Secure password storage
 
