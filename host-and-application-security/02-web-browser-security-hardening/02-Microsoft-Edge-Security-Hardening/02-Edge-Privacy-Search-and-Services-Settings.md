@@ -25,7 +25,7 @@ In this section of the lab, I reviewed and configured **Microsoft Edge’s Priva
 
 ---
 
-## Step 1: Clearing Browsing Data
+## Step 2: Clearing Browsing Data
 
 1. Click **Clear browsing data**
 2. Select All time for Time range
@@ -46,7 +46,7 @@ In the **Privacy, search, and services /Clear browsing data** page or **edge://s
 
 ---
 
-## Step 2: Third-Party Cookie Protection
+## Step 3: Third-Party Cookie Protection
 
 Go back (click the back logo top left 2x) or go to **edge://settings/privacy**
 
@@ -76,7 +76,7 @@ You can click on a site, expand and delete specific cookies
 
 Go back (click back logo 2x) or go to **edge://settings/privacy**
 
-## Step 3: Privacy
+## Step 4: Privacy
 
 1. Click on **Privacy**
 2. Enable **Send “Do Not Track” requests**, then click send request
@@ -86,7 +86,7 @@ Go back (click back logo 2x) or go to **edge://settings/privacy**
 
 Go back (click back logo)
 
-## Step 4: Security
+## Step 5: Security
 
 Click on **Security**
 
@@ -118,11 +118,11 @@ Note if you have problems download something you can change these settings
 - In **Site preferences for enhance security** you can configure sites to use with enhance security 
 
 
-## Step 5: Site perminssions
+## Step 6: Site perminssions
 
 1. Click on Sites permission to view or modify them
 
-## Step 6: Search and connected experiences
+## Step 7: Search and connected experiences
 
 In **edge://settings/privacy**
 
