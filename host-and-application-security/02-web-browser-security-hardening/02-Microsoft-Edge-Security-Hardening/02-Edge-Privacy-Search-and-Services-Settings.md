@@ -31,6 +31,11 @@ In this section of the lab, I reviewed and configured **Microsoft Edge’s Priva
 
 ![SS28](Screenshots/SS28.png)
 
+3. Select **Strict** to block majority of trackers
+4. Enable **Always use "Strict" tracking prevention when browsing InPrivate**
+5. You can add **Exceptions**
+
+
 ---
 
 ## Step 2: Clearing Browsing Data
