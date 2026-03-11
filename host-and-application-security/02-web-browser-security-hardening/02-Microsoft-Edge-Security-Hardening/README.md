@@ -49,7 +49,11 @@ This lab focuses on the following Microsoft Edge security features.
 - Malicious site detection
 - Secure browsing configurations
 
+### Data Protection
 
+- Autofill data management
+- Browser data clearing
+- Control of stored site information
 
 
 
