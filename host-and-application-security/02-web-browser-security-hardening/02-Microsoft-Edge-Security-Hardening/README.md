@@ -55,14 +55,8 @@ This lab focuses on the following Microsoft Edge security features.
 - Browser data clearing
 - Control of stored site information
 
+---
 
+# Screenshots
 
-
-
-
-
-
-
-
-
-
+Screenshots referenced in the lab can be found in the **screenshots folder**.
