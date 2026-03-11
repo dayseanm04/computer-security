@@ -29,4 +29,12 @@ The following sections document the security configurations performed during thi
 
 ---
 
+# Security Areas Covered
+
+This lab focuses on the following Microsoft Edge security features.
+
+### Credential Protection
+
+- Password manager review
+
 
