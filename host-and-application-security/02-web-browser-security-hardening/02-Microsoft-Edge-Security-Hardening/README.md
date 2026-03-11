@@ -14,3 +14,4 @@ Web browsers are frequently targeted by attackers because they interact with unt
 - Unsafe downloads
 - Data exposure through browser storage
 
+This lab focuses on applying **browser hardening techniques** to strengthen Microsoft Edge's built-in security controls.
