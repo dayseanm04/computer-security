@@ -43,7 +43,11 @@ This lab focuses on the following Microsoft Edge security features.
 - Cookie management
 - Site permission review
 
+### Browser Security
 
+- Microsoft Defender SmartScreen protection
+- Malicious site detection
+- Secure browsing configurations
 
 
 
