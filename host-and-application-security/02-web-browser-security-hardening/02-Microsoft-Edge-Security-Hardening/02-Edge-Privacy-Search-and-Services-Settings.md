@@ -25,6 +25,14 @@ In this section of the lab, I reviewed and configured **Microsoft Edge’s Priva
 
 ---
 
+## Step 1: Tracking prevention
+1. Click **Tracking prevention**
+2. Enable **tracking prevention**
+
+![SS28](Screenshots/SS28.png)
+
+---
+
 ## Step 2: Clearing Browsing Data
 
 1. Click **Clear browsing data**
