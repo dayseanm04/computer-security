@@ -15,3 +15,18 @@ Web browsers are frequently targeted by attackers because they interact with unt
 - Data exposure through browser storage
 
 This lab focuses on applying **browser hardening techniques** to strengthen Microsoft Edge's built-in security controls.
+
+---
+
+# Lab Navigation
+
+The following sections document the security configurations performed during this lab.
+
+| Section | Description |
+|-------|-------------|
+| [**`01 – Passwords and Autofill Security`**](01-Passwords-and-Autofill.md) | Reviews Microsoft Edge password manager settings, credential protection, and autofill security |
+| [**`02 – Privacy, Search, and Services Settings`**](02-Edge-Privacy-Search-and-Services-Settings.md) | Configures privacy protections, tracking prevention, and browser security features |
+
+---
+
+
