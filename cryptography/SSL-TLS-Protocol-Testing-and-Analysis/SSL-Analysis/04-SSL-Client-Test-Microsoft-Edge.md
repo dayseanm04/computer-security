@@ -32,3 +32,17 @@ Web browsers act as the client in HTTPS communications, so strong TLS support is
 
 ![SS24](../Screenshots/SS24.png)
 
+# SSL Client Test Results
+
+## 1. Protocol Support
+
+The SSL Labs report shows that Microsoft Edge supports modern TLS protocols while disabling legacy protocols.
+
+| Protocol | Supported |
+|---|---|
+| TLS 1.3 | Yes |
+| TLS 1.2 | Yes |
+
+Supports only TLS 1.2 and TLS 1.3 helps protect against known vulnerabilities in older encryption protocols. 
+
+
