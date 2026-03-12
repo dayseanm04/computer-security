@@ -37,15 +37,16 @@ In this assessment, SSL Labs is used to analyze:
 
 ![SS3](../Screenshots/SS3.png)
 
-![SS4](../Screenshots/SS4.png)
-
-![SS5](../Screenshots/SS5.png)
 
 Review the **Summary** section and record the following:
 
 - Overall Rating
 
-![SS5](../Screenshots/SS5.png)
+![SS4](../Screenshots/SS4.png)
+
+- Certificate 
+
+![SS45](../Screenshots/SS5.png)
 
 
 
