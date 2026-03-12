@@ -62,7 +62,7 @@ The scan verifies that Microsoft Edge is protected against several major cryptog
 
 ## 3. Cipher Suites
 
-![SS256](../Screenshots/SS256.png)
+![SS26](../Screenshots/SS26.png)
 
 Microsoft Edge prioritizes strong cipher suites that support **forward secrecy and authenticated encryption**.
 
