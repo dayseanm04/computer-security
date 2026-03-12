@@ -53,9 +53,19 @@ Review the **Summary** section and record the following:
 
 A strong server configuration typically receives an **A or A+ rating**, indicating secure protocol configuration and strong encryption.
 
+---
 
+### Step 3: Review Certificate Information
+Scroll down to **Certificate #1**.
 
+![SS5](../Screenshots/SS5.png)
 
+Observe:
+- Certificate issuer
+- Signature algorithm
+- Key size
+- Validity dates
+- Site alternative names
 
 
 
