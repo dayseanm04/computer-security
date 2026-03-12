@@ -37,5 +37,8 @@ In this assessment, SSL Labs is used to analyze:
 
 ![SS23](../Screenshots/SS3.png)
 
+![SS24](../Screenshots/SS4.png)
+
+Review the **Summary** section and record the following:
 
 
