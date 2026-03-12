@@ -105,4 +105,14 @@ Google Chrome demonstrates strong SSL/TLS security because it:
 - Protects against major TLS vulnerabilities
 - Blocks insecure mixed content
 
+### Minor Weaknesses
 
+Some weaker cipher suites remain supported for compatibility with older servers. These are rarely used because modern servers prioritize stronger cipher suites.
+
+---
+
+# Conclusion
+
+The SSL Labs Client Test confirms that **Microsoft Edge provides strong SSL/TLS security capabilities**. The browser supports modern encryption standards, and protects users against common cryptographic attacks.
+
+Overall, Microsoft Edge is considered a **secure browser for modern HTTPS communications**.
