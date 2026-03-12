@@ -89,7 +89,12 @@ Locate the **Cipher Suites** section.
 
 ![SS8](../Screenshots/SS8.png)
 
+Cipher suites define how encryption is performed during a TLS handshake. They include:
 
+- Key exchange algorithms
+- Authentication methods
+- Encryption algorithms
+- Message authentication codes
 
 
 
