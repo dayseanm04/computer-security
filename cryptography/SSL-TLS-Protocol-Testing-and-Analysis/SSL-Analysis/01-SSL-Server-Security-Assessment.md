@@ -111,7 +111,9 @@ Open the **Handshake Simulation** section.
 
 ![SS9](../Screenshots/SS9.png)
 
+Select a browser and operating system similar to yours (Im using google chrome).
 
+![SS10](../Screenshots/SS10.png)
 
 
 
