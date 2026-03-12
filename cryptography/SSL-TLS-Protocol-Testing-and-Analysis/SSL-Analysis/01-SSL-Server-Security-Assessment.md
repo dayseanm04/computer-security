@@ -27,7 +27,7 @@ In this assessment, SSL Labs is used to analyze:
 ![SS1](../Screenshots/SS1.png)
 3. Click **"Test Your Server"**.
 
-![SS2](../Screenshots/SS2.png)
+![SS2](../Screenshots/ss2.png)
 
 
 ---
