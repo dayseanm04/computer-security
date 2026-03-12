@@ -11,3 +11,15 @@ The analysis includes both **server-side security assessment** and **client-side
 The **Qualys SSL Labs** testing platform was used to analyze the server’s TLS configuration and identify potential weaknesses in the implementation.
 
 ---
+
+## Lab Navigation
+
+| Step | Analysis | Description |
+|-----|-----|-----|
+| 1 | [**`SSL Server Security Assessment`**](./01-SSL-Server-Security-Assessment.md) | Evaluates the server's TLS configuration and security posture using Qualys SSL Labs. |
+| 2 | [**`SSL Client Test – Google Chrome`**](./02-SSL-Client-Test-Google-Chrome.md) | Examines certificate and connection security details using the Chrome browser. |
+| N/A | Google Chrome Test Report | Raw output and documentation from the Chrome browser test. |
+| 3 | [**`SSL Client Test – Microsoft Edge`**](./04-SSL-Client-Test-Microsoft-Edge.md) | Analyzes SSL/TLS connection details using Microsoft Edge. |
+| N/A | Microsoft Edge Test Report | Raw output and documentation from the Edge browser test. |
+
+---
