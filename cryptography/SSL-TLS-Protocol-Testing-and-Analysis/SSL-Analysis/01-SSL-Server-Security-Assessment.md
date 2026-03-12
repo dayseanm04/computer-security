@@ -21,5 +21,6 @@ In this assessment, SSL Labs is used to analyze:
 
 ### Step 1: Access SSL Labs
 
-
+1. Open a web browser.
+2. Navigate to the SSL Labs website: **https://www.ssllabs.com**
 
