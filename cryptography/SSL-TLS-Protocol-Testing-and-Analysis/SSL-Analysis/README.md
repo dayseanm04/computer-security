@@ -36,4 +36,15 @@ This analysis helps identify whether the server follows modern cryptographic sec
 
 ---
 
+### 2. Client-Side Browser Testing
 
+Two browsers were used to evaluate SSL/TLS connections from client side using : **Google Chrome**, **Microsoft Edge**
+
+Each browser test includes:
+
+- Certificate validation details
+- Connection security information
+- Protocol and cipher information
+- Certificate chain inspection
+
+---
