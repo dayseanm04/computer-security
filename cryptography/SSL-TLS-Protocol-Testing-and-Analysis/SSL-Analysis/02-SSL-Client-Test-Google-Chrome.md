@@ -29,4 +29,6 @@ The results provide insight into how Chrome protects users against common crypto
 
 4. Click on **SSL Client Test**
 
-5. 
+
+
+
