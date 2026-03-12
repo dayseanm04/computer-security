@@ -104,9 +104,12 @@ The most secure configurations prioritize cipher suites that use:
 - **AES-GCM encryption**
 - **Forward secrecy**
 
-
 ---
 
+### Step 6: Review Handshake Simulation
+Open the **Handshake Simulation** section.
+
+![SS9](../Screenshots/SS9.png)
 
 
 
