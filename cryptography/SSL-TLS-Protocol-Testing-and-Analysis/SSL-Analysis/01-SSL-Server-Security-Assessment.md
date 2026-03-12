@@ -67,6 +67,21 @@ Observe:
 - Validity dates
 - Site alternative names
 
+Expand the **Certification Paths** section to view the certificate chain.
+
+---
+
+### Step 4: Analyze Supported Protocols
+
+
+
+
+
+
+
+
+
+
 
 
 
