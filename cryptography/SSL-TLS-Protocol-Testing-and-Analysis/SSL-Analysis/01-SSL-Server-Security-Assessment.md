@@ -77,6 +77,7 @@ Navigate to the **Configuration** section.
 
 ![SS7](../Screenshots/SS7.png)
 
+Review the supported protocols such as: TLS 1.2, 1.3
 
 
 
