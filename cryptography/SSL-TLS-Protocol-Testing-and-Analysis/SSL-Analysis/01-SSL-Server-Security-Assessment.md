@@ -33,3 +33,9 @@ In this assessment, SSL Labs is used to analyze:
 ---
 
 ### Step 2: Analyze a Highly Rated Server
+1. Under **Recent Best**, select the first website listed.
+
+![SS23](../Screenshots/SS3.png)
+
+
+
