@@ -51,7 +51,12 @@ The scan verifies that Microsoft Edge is protected against several major cryptog
 
 ![SS25](../Screenshots/SS25.png)
 
-
+| Vulnerability | Status |
+|---|---|
+| CVE-2020-0601 (CurveBall) | Not Vulnerable |
+| Logjam Attack | Not Vulnerable |
+| FREAK Attack | Not Vulnerable |
+| POODLE Attack | Not Vulnerable |
 
 
 
