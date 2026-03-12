@@ -27,4 +27,9 @@ In this assessment, SSL Labs is used to analyze:
 ![SS1](../Screenshots/SS1.png)
 3. Click **"Test Your Server"**.
 
+![SS2](../Screenshots/SS2.png)
 
+
+---
+
+### Step 2: Analyze a Highly Rated Server
