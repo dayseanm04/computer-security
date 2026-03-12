@@ -42,6 +42,16 @@ This analysis helps determine whether the server follows modern cryptographic se
 
 ---
 
+## Client Browser Analysis
 
+Client-side testing was performed using: **Google Chrome** and **Microsoft Edge**
 
+Each browser test includes examination of:
 
+- Certificate details
+- Certificate authority trust chain
+- TLS protocol version
+- Encryption cipher suite
+- Connection security indicators
+
+This helps demonstrate how browsers validate HTTPS connections and communicate security information to users.
