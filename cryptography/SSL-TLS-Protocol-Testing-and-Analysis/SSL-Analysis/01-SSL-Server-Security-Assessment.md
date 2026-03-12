@@ -129,10 +129,14 @@ Under **Recent Worst**, select a poorly rated site.
 Review the **summary**:
 
 ![SS12](../Screenshots/SS12.png)
+
+Review **Configuration**
+
 ![SS13](../Screenshots/SS13.png)
 
+Review **Handshake simulation**
 
-
+![SS14](../Screenshots/SS14.png)
 
 
 
