@@ -24,3 +24,4 @@ In this assessment, SSL Labs is used to analyze:
 1. Open a web browser.
 2. Navigate to the SSL Labs website: **https://www.ssllabs.com**
 
+![SS1](../Screenshots/SS1.png)
