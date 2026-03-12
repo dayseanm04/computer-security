@@ -32,5 +32,12 @@ The results provide insight into how Chrome protects users against common crypto
 
 ![SS20](../Screenshots/SS20.png)
 
+## 1. Protocol Support
 
+Chrome supports the latest secure TLS protocols and disables legacy protocols.
+
+| Protocol | Supported |
+|---|---|
+| TLS 1.3 | Yes |
+| TLS 1.2 | Yes |
 
