@@ -30,4 +30,5 @@ Web browsers act as the client in HTTPS communications, so strong TLS support is
 
 5. Click on **SSL Client Test**
 
+![SS24](../Screenshots/SS24.png)
 
