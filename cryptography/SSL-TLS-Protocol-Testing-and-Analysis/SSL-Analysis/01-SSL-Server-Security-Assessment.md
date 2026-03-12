@@ -142,15 +142,18 @@ Review **Handshake simulation**
 
 ![SS15](../Screenshots/SS15.png)
 
+My school website received an **A- rating**, indicating generally strong security with minor improvements possible.
 
+---
 
+## Findings
+The SSL Labs platform provides a detailed analysis of server-side SSL/TLS implementations. Servers with strong configurations prioritize modern protocols, strong cipher suites, and properly configured certificate chains.
 
+Servers that support outdated protocols or weak encryption mechanisms are more vulnerable to cryptographic attacks.
 
+---
 
+## Conclusion
+SSL/TLS configuration plays a critical role in protecting web communications. Using tools such as SSL Labs allows users to identify weaknesses and improve encryption practices.
 
-
-
-
-
-
-
+Organizations should regularly audit their SSL/TLS configurations to ensure compliance with modern security standards and to protect sensitive user data transmitted over the internet.
