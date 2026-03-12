@@ -6,3 +6,8 @@ This lab evaluates the security configuration of web servers and web browsers us
 In this assessment, SSL Labs is used to analyze:
 - SSL/TLS protocol support
 - Digital certificate configuration
+- Cipher suite strength
+- Key exchange mechanisms
+- Browser compatibility with secure protocols
+
+
