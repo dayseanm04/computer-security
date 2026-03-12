@@ -115,7 +115,7 @@ Select a browser and operating system similar to yours (Im using google chrome).
 
 ![SS10](../Screenshots/SS10.png)
 
-
+This section simulates how different clients connect to the server and shows: **Supported TLS version**s, **Cipher suite negotiation**, **Browser compatibility**
 
 
 
