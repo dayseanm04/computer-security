@@ -92,7 +92,17 @@ The report also evaluates how the browser handles mixed content on HTTPS pages.
 
 ![SS27](../Screenshots/SS27.png)
 
+---
 
+# Security Analysis
 
+### Strengths
+
+Google Chrome demonstrates strong SSL/TLS security because it:
+
+- Supports **TLS 1.3 and TLS 1.2**
+- Supports **forward secrecy**
+- Protects against major TLS vulnerabilities
+- Blocks insecure mixed content
 
 
