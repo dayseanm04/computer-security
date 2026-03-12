@@ -16,3 +16,10 @@ In this assessment, SSL Labs is used to analyze:
 - Understand how SSL Labs evaluates server security
 - Identify weak protocols and insecure cipher suites
 - Review certificate chains and trust relationships
+
+---
+
+### Step 1: Access SSL Labs
+
+
+
