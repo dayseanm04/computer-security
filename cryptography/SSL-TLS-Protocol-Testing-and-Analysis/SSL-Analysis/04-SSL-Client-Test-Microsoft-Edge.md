@@ -45,4 +45,22 @@ The SSL Labs report shows that Microsoft Edge supports modern TLS protocols whil
 
 Supports only TLS 1.2 and TLS 1.3 helps protect against known vulnerabilities in older encryption protocols. 
 
+## 2. Vulnerability Protection
+
+The scan verifies that Microsoft Edge is protected against several major cryptographic attacks.
+
+![SS25](../Screenshots/SS25.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
