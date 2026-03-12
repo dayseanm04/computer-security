@@ -124,10 +124,11 @@ Return to the SSL Labs homepage **https://www.ssllabs.com/ssltest/**.
 
 Under **Recent Worst**, select a poorly rated site.
 
+![SS11](../Screenshots/SS11.png)
 
+Review the **summary**:
 
-
-
+![SS12](../Screenshots/SS12.png)
 
 
 
