@@ -56,6 +56,21 @@ The scan confirms Chrome is protected against several major TLS-related attacks.
 | FREAK Attack | Not Vulnerable |
 | POODLE Attack | Not Vulnerable |
 
+---
+
+## 3. Cipher Suites
+
+Chrome prioritizes **modern cipher suites that provide forward secrecy and strong encryption**.
+
+### Strong Cipher Suites
+
+| Cipher Suite | Encryption | Security Feature |
+|---|---|---|
+| TLS_AES_128_GCM_SHA256 | 128-bit | Forward Secrecy |
+| TLS_AES_256_GCM_SHA384 | 256-bit | Forward Secrecy |
+| TLS_CHACHA20_POLY1305_SHA256 | 256-bit | Forward Secrecy |
+| TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256 | 128-bit | Forward Secrecy |
+| TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256 | 128-bit | Forward Secrecy |
 
 
 
