@@ -87,3 +87,18 @@ Some weaker suites remain for backward compatibility.
 | TLS_RSA_WITH_AES_256_GCM_SHA384 | Weak |
 | TLS_RSA_WITH_AES_128_CBC_SHA | Weak |
 | TLS_RSA_WITH_AES_256_CBC_SHA | Weak |
+
+---
+
+## Protocol Features
+
+| Feature | Supported |
+|---|---|
+| Server Name Indication (SNI) | Yes |
+| Secure Renegotiation | Yes |
+| TLS Compression | No |
+| Session Tickets | Yes |
+| OCSP Stapling | Yes |
+| Application Layer Protocol Negotiation (ALPN) | Yes |
+
+These features improve performance and security during TLS connections.
