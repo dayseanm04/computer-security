@@ -25,3 +25,6 @@ In this assessment, SSL Labs is used to analyze:
 2. Navigate to the SSL Labs website: **https://www.ssllabs.com**
 
 ![SS1](../Screenshots/SS1.png)
+3. Click **"Test Your Server"**.
+
+
