@@ -16,3 +16,11 @@ The results provide insight into how Chrome protects users against common crypto
 - Verify protection against known cryptographic vulnerabilities
 
 ---
+
+### Step 1: Access SSL Labs
+
+1. Open a web browser.
+2. Navigate to the SSL Labs website: **https://www.ssllabs.com**
+
+![SS1](../Screenshots/SS1.png)
+
