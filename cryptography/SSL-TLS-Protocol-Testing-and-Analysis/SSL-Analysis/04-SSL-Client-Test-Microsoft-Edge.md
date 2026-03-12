@@ -68,6 +68,13 @@ Microsoft Edge prioritizes strong cipher suites that support **forward secrecy a
 
 ### Strong Cipher Suites
 
+| Cipher Suite | Encryption | Security Feature |
+|---|---|---|
+| TLS_AES_128_GCM_SHA256 | 128-bit | Forward Secrecy |
+| TLS_AES_256_GCM_SHA384 | 256-bit | Forward Secrecy |
+| TLS_CHACHA20_POLY1305_SHA256 | 256-bit | Forward Secrecy |
+| TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256 | 128-bit | Forward Secrecy |
+| TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256 | 128-bit | Forward Secrecy |
 
 
 
