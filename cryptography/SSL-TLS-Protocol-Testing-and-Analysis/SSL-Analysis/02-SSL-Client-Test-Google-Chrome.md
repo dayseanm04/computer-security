@@ -9,3 +9,10 @@ The results provide insight into how Chrome protects users against common crypto
 
 ---
 
+## Objective
+- Evaluate the SSL/TLS capabilities of Google Chrome
+- Identify supported encryption protocols
+- Review supported cipher suites
+- Verify protection against known cryptographic vulnerabilities
+
+---
