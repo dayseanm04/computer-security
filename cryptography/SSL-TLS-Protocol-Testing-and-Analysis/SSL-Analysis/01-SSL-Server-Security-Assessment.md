@@ -96,7 +96,16 @@ Cipher suites define how encryption is performed during a TLS handshake. They in
 - Encryption algorithms
 - Message authentication codes
 
+Cipher suites are listed in **server-preferred order**.
 
+The most secure configurations prioritize cipher suites that use:
+
+- **ECDHE key exchange**
+- **AES-GCM encryption**
+- **Forward secrecy**
+
+
+---
 
 
 
