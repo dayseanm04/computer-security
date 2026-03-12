@@ -41,3 +41,14 @@ Chrome supports the latest secure TLS protocols and disables legacy protocols.
 | TLS 1.3 | Yes |
 | TLS 1.2 | Yes |
 
+---
+
+## 2. Vulnerability Protection
+
+![SS21](../Screenshots/SS21.png)
+
+
+
+
+
+
