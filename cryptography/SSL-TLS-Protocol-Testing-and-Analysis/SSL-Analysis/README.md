@@ -23,3 +23,17 @@ The **Qualys SSL Labs** testing platform was used to analyze the server’s TLS 
 | N/A | Microsoft Edge Test Report | Raw output and documentation from the Edge browser test. |
 
 ---
+
+## Analysis Scope
+
+This lab focuses on three primary components of SSL/TLS security evaluation:
+
+### 1. Server Security Assessment
+
+The server configuration was analyzed using **Qualys SSL Labs**, which evaluates: **TLS protocol versions**, **Certificate configuration**, **Key exchange mechanisms**, **Cipher suite security** and **Overall SSL/TLS security rating**
+
+This analysis helps identify whether the server follows modern cryptographic security standards.
+
+---
+
+
