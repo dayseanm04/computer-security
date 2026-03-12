@@ -76,6 +76,15 @@ Microsoft Edge prioritizes strong cipher suites that support **forward secrecy a
 | TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256 | 128-bit | Forward Secrecy |
 | TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256 | 128-bit | Forward Secrecy |
 
+### Weak / Legacy Cipher Suites
+
+Some older cipher suites remain available for compatibility with legacy servers.
+
+---
+
+## 4. Protocol Features
+
+The SSL Labs report also evaluates additional TLS features supported by the browser.
 
 
 
