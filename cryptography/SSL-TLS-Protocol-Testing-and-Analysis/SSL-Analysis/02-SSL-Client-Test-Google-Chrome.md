@@ -102,3 +102,22 @@ Some weaker suites remain for backward compatibility.
 | Application Layer Protocol Negotiation (ALPN) | Yes |
 
 These features improve performance and security during TLS connections.
+
+---
+
+# Security Analysis
+
+### Strengths
+
+Google Chrome demonstrates strong SSL/TLS security because it:
+
+- Supports **TLS 1.3 and TLS 1.2**
+- Supports **forward secrecy**
+- Protects against major TLS vulnerabilities
+- Blocks insecure mixed content
+ 
+### Minor Weaknesses
+
+Some weaker cipher suites remain supported for compatibility with older servers. These are rarely used because modern servers prioritize stronger cipher suites.
+
+
