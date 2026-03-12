@@ -8,6 +8,11 @@ In this assessment, SSL Labs is used to analyze:
 - Digital certificate configuration
 - Cipher suite strength
 - Key exchange mechanisms
-- Browser compatibility with secure protocols
 
+---
 
+## Objectives
+- Analyze the SSL/TLS security configuration of web servers
+- Understand how SSL Labs evaluates server security
+- Identify weak protocols and insecure cipher suites
+- Review certificate chains and trust relationships
