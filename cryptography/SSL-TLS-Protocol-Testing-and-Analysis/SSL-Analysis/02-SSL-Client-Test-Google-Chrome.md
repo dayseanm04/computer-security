@@ -60,6 +60,9 @@ The scan confirms Chrome is protected against several major TLS-related attacks.
 
 ## 3. Cipher Suites
 
+![SS22](../Screenshots/SS22.png)
+
+
 Chrome prioritizes **modern cipher suites that provide forward secrecy and strong encryption**.
 
 ### Strong Cipher Suites
@@ -72,5 +75,15 @@ Chrome prioritizes **modern cipher suites that provide forward secrecy and stron
 | TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256 | 128-bit | Forward Secrecy |
 | TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256 | 128-bit | Forward Secrecy |
 
+### Legacy / Weak Cipher Suites
 
+Some weaker suites remain for backward compatibility.
 
+| Cipher Suite | Status |
+|---|---|
+| TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA | Weak |
+| TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA | Weak |
+| TLS_RSA_WITH_AES_128_GCM_SHA256 | Weak |
+| TLS_RSA_WITH_AES_256_GCM_SHA384 | Weak |
+| TLS_RSA_WITH_AES_128_CBC_SHA | Weak |
+| TLS_RSA_WITH_AES_256_CBC_SHA | Weak |
