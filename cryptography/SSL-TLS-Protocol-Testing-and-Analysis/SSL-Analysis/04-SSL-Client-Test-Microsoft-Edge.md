@@ -58,8 +58,15 @@ The scan verifies that Microsoft Edge is protected against several major cryptog
 | FREAK Attack | Not Vulnerable |
 | POODLE Attack | Not Vulnerable |
 
+---
 
+## 3. Cipher Suites
 
+![SS256](../Screenshots/SS256.png)
+
+Microsoft Edge prioritizes strong cipher suites that support **forward secrecy and authenticated encryption**.
+
+### Strong Cipher Suites
 
 
 
