@@ -24,3 +24,4 @@ The results provide insight into how Chrome protects users against common crypto
 
 ![SS1](../Screenshots/SS1.png)
 
+3. Click on **projects**
