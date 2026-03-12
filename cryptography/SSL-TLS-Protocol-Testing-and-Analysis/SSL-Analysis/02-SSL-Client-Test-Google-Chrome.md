@@ -30,6 +30,7 @@ The results provide insight into how Chrome protects users against common crypto
 
 5. Click on **SSL Client Test**
 
+![SS20](../Screenshots/SS20.png)
 
 
 
