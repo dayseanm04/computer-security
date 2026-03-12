@@ -11,3 +11,14 @@ The servers were analyzed using the Qualys SSL Labs testing platform to review T
 The results provide insight into how secure HTTPS connections are established and how browsers verify the trustworthiness of web servers.
 
 ---
+
+## Objectives
+
+- Analyze the SSL/TLS configuration of a web server
+- Inspect certificate validation and connection security using web browsers
+- Identify potential weaknesses in TLS/SSL configurations
+- Document the testing process and security findings
+
+
+
+
