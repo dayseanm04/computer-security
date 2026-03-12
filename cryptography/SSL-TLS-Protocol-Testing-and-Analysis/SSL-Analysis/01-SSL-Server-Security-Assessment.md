@@ -46,9 +46,11 @@ Review the **Summary** section and record the following:
 
 - Certificate 
 
-![SS45](../Screenshots/SS5.png)
+![SS5](../Screenshots/SS5.png)
 
+- Protocol support score
 
+![SS7](../Screenshots/SS7.png)
 
 
 
