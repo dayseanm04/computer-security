@@ -43,4 +43,13 @@ In this assessment, SSL Labs is used to analyze:
 
 Review the **Summary** section and record the following:
 
+- Overall Rating
+
+![SS5](../Screenshots/SS5.png)
+
+
+
+
+
+
 
