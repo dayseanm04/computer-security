@@ -47,7 +47,14 @@ Chrome supports the latest secure TLS protocols and disables legacy protocols.
 
 ![SS21](../Screenshots/SS21.png)
 
+The scan confirms Chrome is protected against several major TLS-related attacks.
 
+| Vulnerability | Status |
+|---|---|
+| CVE-2020-0601 (CurveBall) | Not Vulnerable |
+| Logjam Attack | Not Vulnerable |
+| FREAK Attack | Not Vulnerable |
+| POODLE Attack | Not Vulnerable |
 
 
 
