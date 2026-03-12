@@ -82,7 +82,12 @@ Review the supported protocols such as: TLS 1.2, 1.3
 
 For stronger security, servers should **disable outdated protocols** such as: SSL, TLS 1.0, TLS 1.1
 
+---
 
+### Step 5: Evaluate Cipher Suites
+Locate the **Cipher Suites** section.
+
+![SS8](../Screenshots/SS8.png)
 
 
 
