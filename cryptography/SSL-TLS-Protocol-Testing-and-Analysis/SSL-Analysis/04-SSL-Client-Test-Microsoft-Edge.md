@@ -6,3 +6,13 @@ This lab evaluates the SSL/TLS security capabilities of **Microsoft Edge** using
 Web browsers act as the client in HTTPS communications, so strong TLS support is essential for protecting data transmitted between users and web servers.
 
 ---
+
+## Objective
+
+- Evaluate Microsoft Edge SSL/TLS capabilities
+- Identify supported encryption protocols
+- Review supported cipher suites
+- Verify protection against known TLS vulnerabilities
+- Compare browser security with other browsers such as Google Chrome
+
+---
