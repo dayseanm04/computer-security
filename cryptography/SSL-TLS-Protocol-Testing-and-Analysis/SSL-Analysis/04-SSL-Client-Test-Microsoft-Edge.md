@@ -86,7 +86,11 @@ Some older cipher suites remain available for compatibility with legacy servers.
 
 The SSL Labs report also evaluates additional TLS features supported by the browser.
 
+## 5. Mixed Content Handling
 
+The report also evaluates how the browser handles mixed content on HTTPS pages.
+
+![SS27](../Screenshots/SS27.png)
 
 
 
