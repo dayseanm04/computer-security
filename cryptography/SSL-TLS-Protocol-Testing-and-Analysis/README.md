@@ -19,6 +19,29 @@ The results provide insight into how secure HTTPS connections are established an
 - Identify potential weaknesses in TLS/SSL configurations
 - Document the testing process and security findings
 
+---
+
+## Tools and Technologies
+
+- **Qualys SSL Labs**
+
+---
+
+## Server Security Analysis
+
+The server configuration was evaluated using **Qualys SSL Labs**, a widely used TLS testing platform that analyzes:
+
+- Supported TLS protocol versions
+- Certificate configuration
+- Key exchange methods
+- Cipher suite
+- Certificate chain validation
+- Overall SSL/TLS security rating
+
+This analysis helps determine whether the server follows modern cryptographic security standards.
+
+---
+
 
 
 
