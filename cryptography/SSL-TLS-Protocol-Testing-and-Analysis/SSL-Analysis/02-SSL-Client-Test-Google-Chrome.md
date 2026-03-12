@@ -25,9 +25,10 @@ The results provide insight into how Chrome protects users against common crypto
 ![SS1](../Screenshots/SS1.png)
 
 3. Click on **projects**
+
 ![SS16](../Screenshots/SS16.png)
 
-4. Click on **SSL Client Test**
+5. Click on **SSL Client Test**
 
 
 
