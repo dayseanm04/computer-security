@@ -117,6 +117,12 @@ Select a browser and operating system similar to yours (Im using google chrome).
 
 This section simulates how different clients connect to the server and shows: **Supported TLS version**s, **Cipher suite negotiation**, **Browser compatibility**
 
+---
+
+### Step 7: Analyze a Poorly Configured Server
+Return to the SSL Labs homepage **https://www.ssllabs.com/ssltest/**.
+
+Under **Recent Worst**, select a poorly rated site.
 
 
 
