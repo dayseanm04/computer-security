@@ -29,7 +29,6 @@ In this assessment, SSL Labs is used to analyze:
 
 ![SS2](../Screenshots/ss2.png)
 
-
 ---
 
 ### Step 2: Analyze a Highly Rated Server
@@ -51,6 +50,36 @@ Review the **Summary** section and record the following:
 - Protocol support score
 
 ![SS7](../Screenshots/SS7.png)
+
+A strong server configuration typically receives an **A or A+ rating**, indicating secure protocol configuration and strong encryption.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
