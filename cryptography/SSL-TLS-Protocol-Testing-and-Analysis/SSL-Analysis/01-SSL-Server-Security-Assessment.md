@@ -138,6 +138,10 @@ Review **Handshake simulation**
 
 ![SS14](../Screenshots/SS14.png)
 
+### Step 8: Test a Real Your Organization or School Website
+
+![SS15](../Screenshots/SS15.png)
+
 
 
 
