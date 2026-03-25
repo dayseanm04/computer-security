@@ -38,7 +38,7 @@ such as IP addresses.
 ### Step 2: Install Notepad++
 
 1. Open a Microsoft Edge inside Windows Sandbox.
-2. Navigate to: **https://notepad-plus-plus.org/downloads/**
+2. Navigate to: **https://notepad-plus-plus.org/downloads/** or search up Notepad++ Download
 
 
 
