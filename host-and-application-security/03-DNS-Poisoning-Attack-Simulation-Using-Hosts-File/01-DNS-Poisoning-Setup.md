@@ -46,6 +46,8 @@ such as IP addresses.
 
 ### Step 3: Access Target Websites
 
+1. Open a web browser.
+2. Navigate to a website example: https://www.wku.edu
 
 
 
