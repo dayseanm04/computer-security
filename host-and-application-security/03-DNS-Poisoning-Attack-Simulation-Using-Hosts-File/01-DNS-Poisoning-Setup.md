@@ -31,5 +31,6 @@ such as IP addresses.
 2. Search for **Windows Sandbox**.
 3. Launch the application.
 
+<img width="844" height="432" alt="10" src="https://github.com/user-attachments/assets/1f531b10-5032-417e-8d29-366649f35bb4" />
 
 
