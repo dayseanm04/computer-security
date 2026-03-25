@@ -55,7 +55,9 @@ such as IP addresses.
 
 <img width="848" height="475" alt="12" src="https://github.com/user-attachments/assets/4e30f060-53cd-41d8-86d9-701abb1c5470" />
 
+---
 
+### Step 4: Identify IP Addresses
 
 
 
