@@ -61,7 +61,10 @@ such as IP addresses.
 
 To simulate DNS poisoning, you need the IP addresses of the target websites.
 
+### Method 1: Using ping
 
+1. Open Command Prompt.
+2. Run: **ping nyu.edu**
 
 
 
