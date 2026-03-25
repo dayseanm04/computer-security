@@ -48,6 +48,10 @@ such as IP addresses.
 
 1. Open a web browser.
 2. Navigate to a website example: https://www.wku.edu
+
+<img width="855" height="582" alt="11" src="https://github.com/user-attachments/assets/c8e341a1-f20f-4b3d-b757-4155ca341275" />
+
+
 3. Open another website such as your school or organization site, example: https://www.nyu.edu/
 
 
