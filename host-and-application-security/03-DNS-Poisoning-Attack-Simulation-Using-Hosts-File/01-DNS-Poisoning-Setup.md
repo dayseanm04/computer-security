@@ -77,6 +77,13 @@ Example result:
 
 1. Go to: **https://ipaddress.com**
 
+<img width="990" height="471" alt="14 3" src="https://github.com/user-attachments/assets/82f1ee55-406b-4c62-a7b7-645733aacff8" />
+
+2. Click on the **Search bar** top right
+3. Search up the domain names
+
+#### NYU
+<img width="913" height="577" alt="14" src="https://github.com/user-attachments/assets/d1a11234-8f1e-4704-b1f9-a6e451f10677" />
 
 
 
