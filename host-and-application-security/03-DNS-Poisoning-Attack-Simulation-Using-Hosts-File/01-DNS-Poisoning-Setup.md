@@ -90,9 +90,13 @@ To simulate DNS poisoning, you need the IP addresses of the target websites.
 
 <img width="904" height="664" alt="14 2" src="https://github.com/user-attachments/assets/a08df2ef-02d3-4ef8-9af6-82baf3b0c06d" />
 
+### Step 5: Verify IP Address
 
+To confirm the IP address belongs to the correct website:
 
+1. Enter the IP address directly into the browser
 
+<img width="782" height="307" alt="16" src="https://github.com/user-attachments/assets/9484ca3e-ee39-4b4c-98e8-e3909b6a5c50" />
 
 
 
