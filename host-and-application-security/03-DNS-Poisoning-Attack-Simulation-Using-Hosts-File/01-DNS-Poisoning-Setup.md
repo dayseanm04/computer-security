@@ -15,3 +15,12 @@ such as IP addresses.
 
 ---
 
+## Lab Environment
+
+| Component | Details |
+|---|---|
+| Environment | Windows Sandbox |
+| Operating System | Windows 10/11 |
+| Tools | Notepad++ |
+
+
