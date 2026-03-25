@@ -109,13 +109,14 @@ The IP addrees took me to www.wku.edu
 
 4. Enter the NYU IP address in Microsoft Edge
 
-
 <img width="1065" height="718" alt="17" src="https://github.com/user-attachments/assets/83b6be0c-d7a3-4972-a663-e303a59de2e4" />
 
 2. Clicked Advanced
 3. Clicked **Continue to 216.165.61.24 (unsafe)**
 
+<img width="1019" height="489" alt="17 1" src="https://github.com/user-attachments/assets/7786148e-2fe1-4fe6-9556-1e4dba0ec65c" />
 
+The IP addrees took me to www.nyu.edu
 
 
 
