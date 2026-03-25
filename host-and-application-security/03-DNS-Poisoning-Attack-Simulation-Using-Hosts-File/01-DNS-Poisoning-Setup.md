@@ -98,8 +98,10 @@ To confirm the IP address belongs to the correct website:
 
 <img width="782" height="307" alt="16" src="https://github.com/user-attachments/assets/9484ca3e-ee39-4b4c-98e8-e3909b6a5c50" />
 
+<img width="944" height="722" alt="16 1" src="https://github.com/user-attachments/assets/91b0e06e-fa14-4892-986a-e4689a446fee" />
 
-
+2. Clicked Advanced
+3. Clicked **Continue to 161.6.96.74 (unsafe)**
 
 
 
