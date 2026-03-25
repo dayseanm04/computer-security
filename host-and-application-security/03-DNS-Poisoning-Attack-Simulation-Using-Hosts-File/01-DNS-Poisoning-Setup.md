@@ -103,7 +103,9 @@ To confirm the IP address belongs to the correct website:
 2. Clicked Advanced
 3. Clicked **Continue to 161.6.96.74 (unsafe)**
 
+<img width="920" height="585" alt="16 2" src="https://github.com/user-attachments/assets/f4b41c8c-0803-4a8d-9932-d4e9a666b701" />
 
+The IP addrees took me to www.wku.edu
 
 
 
