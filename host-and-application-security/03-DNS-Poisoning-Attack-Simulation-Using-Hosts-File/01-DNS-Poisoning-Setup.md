@@ -68,8 +68,9 @@ To simulate DNS poisoning, you need the IP addresses of the target websites.
 
 <img width="807" height="434" alt="13" src="https://github.com/user-attachments/assets/62488c83-2425-49d6-8238-b434206a2f64" />
 
-Example result:
-- IP Address: **216.165.61.24**
+3. Run: **ping www.wku.edu**
+
+<img width="747" height="438" alt="15" src="https://github.com/user-attachments/assets/7868d80b-e618-469f-88fb-e4e8564b5300" />
 
 ---
 
@@ -85,7 +86,7 @@ Example result:
 #### NYU
 <img width="913" height="577" alt="14" src="https://github.com/user-attachments/assets/d1a11234-8f1e-4704-b1f9-a6e451f10677" />
 
-#### KWU
+#### WKU
 
 <img width="904" height="664" alt="14 2" src="https://github.com/user-attachments/assets/a08df2ef-02d3-4ef8-9af6-82baf3b0c06d" />
 
