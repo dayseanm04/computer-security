@@ -75,7 +75,7 @@ Example result:
 
 ### Method 2: Using an IP Lookup Website
 
-
+1. Go to: **https://ipaddress.com**
 
 
 
