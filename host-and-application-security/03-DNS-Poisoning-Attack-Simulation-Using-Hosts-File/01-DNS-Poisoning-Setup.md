@@ -59,6 +59,44 @@ such as IP addresses.
 
 ### Step 4: Identify IP Addresses
 
+To simulate DNS poisoning, you need the IP addresses of the target websites.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
