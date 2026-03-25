@@ -23,4 +23,13 @@ such as IP addresses.
 | Operating System | Windows 10/11 |
 | Tools | Notepad++ |
 
+---
+
+### Step 1: Launch Windows Sandbox
+
+1. Open the Start menu.
+2. Search for **Windows Sandbox**.
+3. Launch the application.
+
+
 
