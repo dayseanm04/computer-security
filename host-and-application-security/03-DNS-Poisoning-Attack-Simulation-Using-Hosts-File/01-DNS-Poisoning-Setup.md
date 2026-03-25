@@ -94,7 +94,7 @@ To simulate DNS poisoning, you need the IP addresses of the target websites.
 
 To confirm the IP address belongs to the correct website:
 
-1. Enter the IP address directly into the browser
+1. Enter the IP address in Microsoft Edge
 
 <img width="782" height="307" alt="16" src="https://github.com/user-attachments/assets/9484ca3e-ee39-4b4c-98e8-e3909b6a5c50" />
 
