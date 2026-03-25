@@ -66,6 +66,7 @@ To simulate DNS poisoning, you need the IP addresses of the target websites.
 1. Open Command Prompt.
 2. Run: **ping nyu.edu**
 
+<img width="807" height="434" alt="13" src="https://github.com/user-attachments/assets/62488c83-2425-49d6-8238-b434206a2f64" />
 
 
 
