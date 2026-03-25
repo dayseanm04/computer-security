@@ -51,9 +51,9 @@ such as IP addresses.
 
 <img width="855" height="582" alt="11" src="https://github.com/user-attachments/assets/c8e341a1-f20f-4b3d-b757-4155ca341275" />
 
-
 3. Open another website such as your school or organization site, example: https://www.nyu.edu/
 
+<img width="848" height="475" alt="12" src="https://github.com/user-attachments/assets/4e30f060-53cd-41d8-86d9-701abb1c5470" />
 
 
 
