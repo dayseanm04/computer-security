@@ -94,7 +94,7 @@ To simulate DNS poisoning, you need the IP addresses of the target websites.
 
 To confirm the IP address belongs to the correct website:
 
-1. Enter the IP address in Microsoft Edge
+1. Enter the WKU IP address in Microsoft Edge
 
 <img width="782" height="307" alt="16" src="https://github.com/user-attachments/assets/9484ca3e-ee39-4b4c-98e8-e3909b6a5c50" />
 
@@ -107,9 +107,13 @@ To confirm the IP address belongs to the correct website:
 
 The IP addrees took me to www.wku.edu
 
+4. Enter the NYU IP address in Microsoft Edge
 
 
+<img width="1065" height="718" alt="17" src="https://github.com/user-attachments/assets/83b6be0c-d7a3-4972-a663-e303a59de2e4" />
 
+2. Clicked Advanced
+3. Clicked **Continue to 216.165.61.24 (unsafe)**
 
 
 
