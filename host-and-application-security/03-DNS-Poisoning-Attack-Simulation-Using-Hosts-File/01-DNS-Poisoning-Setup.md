@@ -85,7 +85,9 @@ Example result:
 #### NYU
 <img width="913" height="577" alt="14" src="https://github.com/user-attachments/assets/d1a11234-8f1e-4704-b1f9-a6e451f10677" />
 
+#### KWU
 
+<img width="904" height="664" alt="14 2" src="https://github.com/user-attachments/assets/a08df2ef-02d3-4ef8-9af6-82baf3b0c06d" />
 
 
 
