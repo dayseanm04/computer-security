@@ -48,6 +48,7 @@ such as IP addresses.
 
 1. Open a web browser.
 2. Navigate to a website example: https://www.wku.edu
+3. Open another website such as your school or organization site, example: https://www.nyu.edu/
 
 
 
