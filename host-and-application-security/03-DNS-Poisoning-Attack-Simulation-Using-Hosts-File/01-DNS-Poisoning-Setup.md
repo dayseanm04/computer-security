@@ -42,6 +42,9 @@ such as IP addresses.
 3. Download and install Notepad++.
 4. Go to Download Folder and Run the installer
 
+---
+
+### Step 3: Access Target Websites
 
 
 
