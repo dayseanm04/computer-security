@@ -71,7 +71,9 @@ To simulate DNS poisoning, you need the IP addresses of the target websites.
 Example result:
 - IP Address: **216.165.61.24**
 
+---
 
+### Method 2: Using an IP Lookup Website
 
 
 
