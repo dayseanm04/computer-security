@@ -33,4 +33,8 @@ such as IP addresses.
 
 <img width="844" height="432" alt="10" src="https://github.com/user-attachments/assets/1f531b10-5032-417e-8d29-366649f35bb4" />
 
+---
 
+### Step 2: Install Notepad++
+
+1. Open a Microsoft Edge inside Windows Sandbox.
