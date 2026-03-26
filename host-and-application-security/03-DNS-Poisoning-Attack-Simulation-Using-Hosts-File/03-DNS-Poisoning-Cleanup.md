@@ -58,7 +58,12 @@ After simulating a DNS poisoning attack, it is important to clean up the system 
 
 <img width="775" height="522" alt="21" src="https://github.com/user-attachments/assets/92885af8-c08e-44df-9962-d06987472d7b" />
 
+---
 
+### Step 4: Save the File
+
+1. Click **File** and **Save**
+2. Close **Notepad++**
 
 
 
