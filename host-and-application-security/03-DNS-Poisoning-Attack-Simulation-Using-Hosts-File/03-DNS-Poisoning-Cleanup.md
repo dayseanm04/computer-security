@@ -15,3 +15,11 @@ After simulating a DNS poisoning attack, it is important to clean up the system 
 - Clear cached DNS records
 
 ---
+
+## Lab Environment
+
+| Component | Details |
+|---|---|
+| Environment | Windows Sandbox |
+| Operating System | Windows 10/11 |
+| Tool | Notepad++ (Administrator) |
