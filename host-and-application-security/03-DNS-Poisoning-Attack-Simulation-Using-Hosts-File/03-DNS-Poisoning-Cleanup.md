@@ -66,6 +66,41 @@ After simulating a DNS poisoning attack, it is important to clean up the system 
 2. Close **Notepad++**
 
 
+---
+
+### Step 5: Flush DNS Cache
+
+To remove cached DNS records:
+
+1. Open Command Prompt.
+2. Run: **ipconfig /flushdns**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
