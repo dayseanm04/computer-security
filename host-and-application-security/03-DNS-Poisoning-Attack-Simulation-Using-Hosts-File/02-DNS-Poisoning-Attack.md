@@ -88,6 +88,7 @@ To ensure the changes take effect:
 ### Step 7: Test the Attack
 
 1. Open a web browser.
+2. Enter the target domain **https://www.nyu.edu**
 
 
 
