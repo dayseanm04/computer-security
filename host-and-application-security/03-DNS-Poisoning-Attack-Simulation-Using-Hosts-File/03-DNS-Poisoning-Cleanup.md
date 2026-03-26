@@ -56,6 +56,7 @@ After simulating a DNS poisoning attack, it is important to clean up the system 
 2. 161.6.96.74 www.nyu.edu
 3. Delete this line from the file.
 
+<img width="775" height="522" alt="21" src="https://github.com/user-attachments/assets/92885af8-c08e-44df-9962-d06987472d7b" />
 
 
 
