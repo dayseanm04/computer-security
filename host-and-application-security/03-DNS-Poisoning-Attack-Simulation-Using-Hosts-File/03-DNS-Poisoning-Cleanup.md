@@ -8,3 +8,10 @@ After simulating a DNS poisoning attack, it is important to clean up the system 
 **Note: I used a sandbox for this lab but I will still cleanup**
 
 ---
+
+## Objective
+
+- Remove malicious entries from the hosts file
+- Clear cached DNS records
+
+---
