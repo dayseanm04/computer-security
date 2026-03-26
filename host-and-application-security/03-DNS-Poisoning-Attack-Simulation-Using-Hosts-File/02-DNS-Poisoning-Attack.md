@@ -58,6 +58,7 @@ Scroll to the bottom of the hosts file.
 
 Add a new entry using the following: **161.6.96.74 www.nyu.edu**
 
+<img width="796" height="334" alt="23" src="https://github.com/user-attachments/assets/f3d8a7e0-3edd-4e51-86b5-e2157480555b" />
 
 
 
