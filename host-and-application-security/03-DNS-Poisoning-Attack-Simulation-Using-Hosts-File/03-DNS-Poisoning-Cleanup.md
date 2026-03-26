@@ -75,7 +75,13 @@ To remove cached DNS records:
 1. Open Command Prompt.
 2. Run: **ipconfig /flushdns**
 
+---
 
+
+### Step 6: Verify Restoration
+
+1. Open a web browser.
+2. Navigate to the domain **https://www.nyu.edu**
 
 
 
