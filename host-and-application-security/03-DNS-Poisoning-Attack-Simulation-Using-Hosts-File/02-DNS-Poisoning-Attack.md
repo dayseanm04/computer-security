@@ -27,8 +27,44 @@ This lab shows how changing the hosts file can redirect a website to a different
 ### Step 1: Open Notepad++ as Administrator
 1. Click the Start menu.
 2. Search for **Notepad++**.
+3. Click **Run as administrator**.
 
 <img width="1086" height="413" alt="18" src="https://github.com/user-attachments/assets/121c7ec2-ab48-4c9c-93ed-0f9ab6404bfd" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
