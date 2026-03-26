@@ -35,11 +35,11 @@ This lab shows how changing the hosts file can redirect a website to a different
 
 ### Step 2: Open the Hosts File
 
-1. In Notepad++, click **File → Open**.
-
+1. In Notepad++, click **File** and **Open**.
 
 <img width="630" height="259" alt="19" src="https://github.com/user-attachments/assets/fef14820-438c-4909-94aa-ace09b3742d1" />
 
+2. Navigate to C:\Windows\System32\drivers\etc\
 
 
 
