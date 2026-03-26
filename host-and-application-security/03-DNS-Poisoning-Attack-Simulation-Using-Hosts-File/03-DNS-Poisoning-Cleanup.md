@@ -41,6 +41,9 @@ After simulating a DNS poisoning attack, it is important to clean up the system 
 
 <img width="630" height="259" alt="19" src="https://github.com/user-attachments/assets/fef14820-438c-4909-94aa-ace09b3742d1" />
 
+2. Navigate to C:\Windows\System32\drivers\etc\
+3. Select **host**
+4. Ensure **All type** is the file type
 
 
 
