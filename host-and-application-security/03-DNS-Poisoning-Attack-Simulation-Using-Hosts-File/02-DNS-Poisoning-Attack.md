@@ -99,7 +99,18 @@ It took me to Western Kentucky University website
 - The domain resolves to the wrong IP address
 - DNS resolution is overridden by the local hosts file
 
+---
 
+## Security Implications
+
+This demonstrates how attackers can:
+
+- Redirect users to malicious websites
+- Perform phishing attacks
+
+Even without attacking a DNS server, local hostfile manipulation can still compromise system.
+
+---
 
 
 
