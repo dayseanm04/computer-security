@@ -22,7 +22,11 @@ The project was completed in a **Windows Sandbox environment** to safely simulat
 - Installed Notepad++
 - Identified IP addresses using ping and online tools
 
-
+### 2. Attack
+- Modified the hosts file with administrative privileges
+- Mapped a legitimate domain to a different IP address
+- Flushed DNS cache
+- Observed domain redirection
 
 
 
