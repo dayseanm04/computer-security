@@ -31,6 +31,9 @@ This lab shows how changing the hosts file can redirect a website to a different
 
 <img width="1086" height="413" alt="18" src="https://github.com/user-attachments/assets/121c7ec2-ab48-4c9c-93ed-0f9ab6404bfd" />
 
+---
+
+### Step 2: Open the Hosts File
 
 
 
