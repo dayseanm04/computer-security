@@ -94,7 +94,10 @@ To ensure the changes take effect:
 
 It took me to Western Kentucky University website
 
+## Observations
 
+- The domain resolves to the wrong IP address
+- DNS resolution is overridden by the local hosts file
 
 
 
