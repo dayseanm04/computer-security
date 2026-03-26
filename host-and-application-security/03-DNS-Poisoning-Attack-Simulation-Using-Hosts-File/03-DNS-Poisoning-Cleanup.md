@@ -50,8 +50,11 @@ After simulating a DNS poisoning attack, it is important to clean up the system 
 
 5. Click **Open**
 
-<img width="775" height="522" alt="21" src="https://github.com/user-attachments/assets/92885af8-c08e-44df-9962-d06987472d7b" />
+### Step 3: Remove Malicious Entry
 
+1. Locate the entry that was added during the attack phase.
+2. 161.6.96.74 www.nyu.edu
+3. Delete this line from the file.
 
 
 
