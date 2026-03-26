@@ -79,8 +79,7 @@ To ensure the changes take effect:
 
 1. Open Command Prompt.
 2. Run: **ipconfig /flushdns**
-
-
+3. clear browser data in settings
 
 
 
