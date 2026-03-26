@@ -90,7 +90,9 @@ To ensure the changes take effect:
 1. Open a web browser.
 2. Enter the target domain **https://www.nyu.edu**
 
+<img width="896" height="566" alt="25" src="https://github.com/user-attachments/assets/4b1d35e5-b312-4972-af4a-65889e67d866" />
 
+It took me to Western Kentucky University website
 
 
 
