@@ -9,3 +9,18 @@ This lab shows how changing the hosts file can redirect a website to a different
 ## Objective
 
 - Modify the local hosts file
+- Redirect a legitimate domain to a different IP address
+- Observe how DNS resolution is overridden
+
+
+
+
+
+
+
+
+
+
+
+
+
