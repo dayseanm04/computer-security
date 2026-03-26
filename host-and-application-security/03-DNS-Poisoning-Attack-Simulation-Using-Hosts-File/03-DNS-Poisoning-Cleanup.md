@@ -32,3 +32,38 @@ After simulating a DNS poisoning attack, it is important to clean up the system 
 3. Click **Run as administrator**.
 
 <img width="1086" height="413" alt="18" src="https://github.com/user-attachments/assets/121c7ec2-ab48-4c9c-93ed-0f9ab6404bfd" />
+
+---
+
+### Step 2: Open the Hosts File
+
+1. In Notepad++, click **File** and **Open**.
+
+<img width="630" height="259" alt="19" src="https://github.com/user-attachments/assets/fef14820-438c-4909-94aa-ace09b3742d1" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
