@@ -47,6 +47,7 @@ This lab shows how changing the hosts file can redirect a website to a different
 
 5. Click **Open**
 
+<img width="775" height="522" alt="21" src="https://github.com/user-attachments/assets/92885af8-c08e-44df-9962-d06987472d7b" />
 
 
 
