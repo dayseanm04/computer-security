@@ -28,6 +28,11 @@ The project was completed in a **Windows Sandbox environment** to safely simulat
 - Flushed DNS cache
 - Observed domain redirection
 
+### 3. Cleanup
+- Removed the malicious hosts file entry
+- Flushed DNS cache again
+
+
 
 
 
