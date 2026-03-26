@@ -7,3 +7,8 @@ The project was completed in a **Windows Sandbox environment** to safely simulat
 
 ---
 
+## Objectives
+
+- Simulate a DNS poisoning attack using the hosts file
+- Redirect a legitimate domain to a different IP address
+- Restore the system to its original state
