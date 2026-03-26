@@ -54,7 +54,9 @@ This lab shows how changing the hosts file can redirect a website to a different
 
 ### Step 3: Add Malicious Entry
 
+Scroll to the bottom of the hosts file.
 
+Add a new entry using the following: **161.6.96.74 www.nyu.edu**
 
 
 
