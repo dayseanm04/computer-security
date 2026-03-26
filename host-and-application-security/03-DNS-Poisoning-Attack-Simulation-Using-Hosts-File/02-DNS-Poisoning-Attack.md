@@ -64,8 +64,12 @@ Explanation:
 - **`161.6.96.74`** = IP address of Western Kentucky University
 - **`www.nyu.edu`** = target domain being redirected
 
+---
 
+### Step 4: Save the File
 
+1. Click **File** and **Save**
+2. Close Notepad++
 
 
 
