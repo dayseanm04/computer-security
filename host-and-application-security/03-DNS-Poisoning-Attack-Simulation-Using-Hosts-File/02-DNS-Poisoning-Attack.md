@@ -43,6 +43,7 @@ This lab shows how changing the hosts file can redirect a website to a different
 3. Select **host**
 4. Ensure **All type** is the file type
 
+<img width="876" height="537" alt="20" src="https://github.com/user-attachments/assets/99d01c8c-3cb0-4ae1-a2d3-9012a265784f" />
 
 
 
