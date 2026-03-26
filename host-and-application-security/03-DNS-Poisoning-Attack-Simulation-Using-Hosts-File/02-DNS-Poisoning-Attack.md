@@ -71,7 +71,11 @@ Explanation:
 1. Click **File** and **Save**
 2. Close Notepad++
 
+---
 
+### Step 5: Clear DNS Cache
+
+To ensure the changes take effect:
 
 
 
