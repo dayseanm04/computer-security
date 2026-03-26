@@ -83,6 +83,7 @@ To remove cached DNS records:
 1. Open a web browser.
 2. Navigate to the domain **https://www.nyu.edu**
 
+<img width="848" height="475" alt="12" src="https://github.com/user-attachments/assets/4e30f060-53cd-41d8-86d9-701abb1c5470" />
 
 
 
