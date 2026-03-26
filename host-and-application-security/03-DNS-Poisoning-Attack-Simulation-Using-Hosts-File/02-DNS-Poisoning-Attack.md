@@ -94,14 +94,14 @@ To ensure the changes take effect:
 
 It took me to Western Kentucky University website
 
-## Observations
+### Observations
 
 - The domain resolves to the wrong IP address
 - DNS resolution is overridden by the local hosts file
 
 ---
 
-## Security Implications
+### Security Implications
 
 This demonstrates how attackers can:
 
@@ -112,7 +112,11 @@ Even without attacking a DNS server, local hostfile manipulation can still compr
 
 ---
 
+### Conclusion
 
+The DNS poisoning attack was successfully simulated by modifying the hosts file. The system resolved a legitimate domain to a fraudulent IP address, demonstrating how DNS resolution can be manipulated locally.
+
+This highlights the importance of securing endpoints and monitoring unauthorized changes to system files.
 
 
 
