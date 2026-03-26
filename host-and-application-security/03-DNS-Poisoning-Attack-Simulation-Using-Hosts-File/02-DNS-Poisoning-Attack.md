@@ -83,7 +83,11 @@ To ensure the changes take effect:
 
 <img width="795" height="331" alt="18" src="https://github.com/user-attachments/assets/7d0cd68f-faa7-4ed0-8cf8-da50a754f22b" />
 
+---
 
+### Step 7: Test the Attack
+
+1. Open a web browser.
 
 
 
