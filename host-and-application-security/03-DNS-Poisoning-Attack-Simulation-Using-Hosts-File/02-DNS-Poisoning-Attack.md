@@ -1,4 +1,4 @@
-# 0 DNS Poisoning Attack
+# 02 DNS Poisoning Attack
 
 ## Overview
 
@@ -22,7 +22,9 @@ This lab shows how changing the hosts file can redirect a website to a different
 | Operating System | Windows 10/11 |
 | Tool | Notepad++ (Administrator) |
 
+---
 
+### Step 1: Open Notepad++ as Administrator
 
 
 
