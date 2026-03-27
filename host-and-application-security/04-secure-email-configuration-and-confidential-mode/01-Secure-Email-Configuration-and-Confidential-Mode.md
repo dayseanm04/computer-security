@@ -72,6 +72,12 @@ Set the following:
 <img width="449" height="457" alt="14" src="https://github.com/user-attachments/assets/1dcef4ce-83d0-47ac-9434-5b802ea5cb83" />
 
 3. Click **Send**.
+You will be prompted to enter the recipient’s phone number for passcode delivery.
+
+<img width="741" height="538" alt="17" src="https://github.com/user-attachments/assets/6d6c52b5-bbb6-4a0b-a5ce-1a2ec489253b" />
+
+
+---
 
 
 
