@@ -24,3 +24,15 @@ Email by default does not provide strong privacy protections. This feature adds 
 | Platform | Web Browser |
 | Feature Used | Confidential Mode |
 
+---
+
+### Step 1: Open Gmail
+
+1. Open a web browser.
+2. Navigate to Gmail.
+3. Log into your account.
+
+
+
+
+
