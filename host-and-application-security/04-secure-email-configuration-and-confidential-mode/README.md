@@ -29,6 +29,15 @@ The goal is to show how built-in security features in modern applications can re
 
 These controls help reduce the risk of sensitive data being shared or accessed without authorization.
 
+## Key Takeaways
+
+- Email security can be improved using built-in application features
+- Access control is critical when handling sensitive information
+- SMS passcodes provide basic identity verification
+- Expiration date settings reduce long-term exposure of data
+- Security features often involve trade-offs between usability and protection
+
+---
 
 
 
