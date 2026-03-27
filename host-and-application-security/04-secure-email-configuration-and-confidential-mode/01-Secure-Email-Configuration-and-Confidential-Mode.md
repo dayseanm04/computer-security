@@ -51,7 +51,14 @@ Email by default does not provide strong privacy protections. This feature adds 
 
 <img width="572" height="433" alt="12" src="https://github.com/user-attachments/assets/770153fb-6a4e-4ad2-aa81-e36737e5d48e" />
 
+---
 
+### Step 4: Configure Security Settings
+
+Set the following:
+
+- Expiration: **1 day**
+- Require passcode: **SMS passcode**
 
 
 
