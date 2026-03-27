@@ -39,5 +39,7 @@ These controls help reduce the risk of sensitive data being shared or accessed w
 
 ---
 
+## Limitations
 
-
+- SMS-based authentication can be bypassed if a phone is compromised
+- Users can still take screenshots of the email and send it
