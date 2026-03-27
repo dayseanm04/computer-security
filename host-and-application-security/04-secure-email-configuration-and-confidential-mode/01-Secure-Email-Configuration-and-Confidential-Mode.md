@@ -60,6 +60,7 @@ Set the following:
 - Expiration: **1 day**
 - Require passcode: **SMS passcode**
 
+<img width="555" height="404" alt="14" src="https://github.com/user-attachments/assets/8b1f4dd9-bd22-4c58-b734-09d5fdc0dd9a" />
 
 
 
