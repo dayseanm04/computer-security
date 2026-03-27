@@ -16,6 +16,19 @@ The goal is to show how built-in security features in modern applications can re
 - Enforce expiration dates on sensitive messages
 - Require SMS passcode authentication
 
+## Key Features Implemented
+
+- Confidential mode enabled for email messages
+- Message expiration set to limit access
+- SMS passcode required for recipient verification
+- Restrictions applied to prevent:
+  - Forwarding
+  - Copying
+  - Printing
+  - Downloading
+
+These controls help reduce the risk of sensitive data being shared or accessed without authorization.
+
 
 
 
