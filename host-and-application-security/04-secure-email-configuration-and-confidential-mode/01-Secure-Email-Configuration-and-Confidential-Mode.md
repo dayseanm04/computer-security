@@ -14,5 +14,13 @@ Email by default does not provide strong privacy protections. This feature adds 
 - Apply expiration dates to messages
 - Require SMS passcode authentication
 
+---
 
+## Lab Environment
+
+| Component | Details |
+|---|---|
+| Application | Gmail |
+| Platform | Web Browser |
+| Feature Used | Confidential Mode |
 
