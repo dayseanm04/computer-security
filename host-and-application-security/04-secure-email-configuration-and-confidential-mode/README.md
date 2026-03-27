@@ -8,3 +8,14 @@ The goal is to show how built-in security features in modern applications can re
 ---
 
 <img width="800" height="245" alt="gmail-logo" src="https://github.com/user-attachments/assets/c6001ea6-99e6-40f8-ac51-1d0fc19f71f3" />
+
+## Objectives
+
+- Configure secure email settings using Gmail confidential mode
+- Apply access control to email communication
+- Enforce expiration dates on sensitive messages
+- Require SMS passcode authentication
+
+
+
+
