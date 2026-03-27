@@ -62,9 +62,11 @@ Set the following:
 
 <img width="555" height="404" alt="14" src="https://github.com/user-attachments/assets/8b1f4dd9-bd22-4c58-b734-09d5fdc0dd9a" />
 
+---
 
+### Step 5: Send the Secure Email
 
-
+1. Click **Save**.
 
 
 
