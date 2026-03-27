@@ -42,8 +42,14 @@ Email by default does not provide strong privacy protections. This feature adds 
 
 <img width="447" height="459" alt="11" src="https://github.com/user-attachments/assets/61267e10-ede9-4d86-a20b-e39050345c72" />
 
+---
 
+### Step 3: Enable Confidential Mode
 
+1. In the message window, locate the **lock icon** (confidential mode).
+2. Click the icon to open settings.
+
+<img width="572" height="433" alt="12" src="https://github.com/user-attachments/assets/770153fb-6a4e-4ad2-aa81-e36737e5d48e" />
 
 
 
