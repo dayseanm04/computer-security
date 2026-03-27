@@ -11,7 +11,8 @@ Email by default does not provide strong privacy protections. This feature adds 
 
 - Configure Gmail confidential mode
 - Send a secure email with restrictions
-
+- Apply expiration dates to messages
+- Require SMS passcode authentication
 
 
 
