@@ -81,6 +81,13 @@ You will be prompted to enter the recipient’s phone number and click **Send**.
 <img width="957" height="565" alt="20" src="https://github.com/user-attachments/assets/7876c66e-813a-4831-ac4b-2a3e72302947" />
 
 
+## Security Benefits
+
+- Adds an extra layer of protection to email communication
+- Prevents unauthorized sharing of sensitive information
+- Limits exposure through expiration dates
+- Helps protect against accidental data leaks
+
 
 
 
