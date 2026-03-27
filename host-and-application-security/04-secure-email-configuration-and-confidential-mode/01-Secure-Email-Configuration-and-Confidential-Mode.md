@@ -67,8 +67,11 @@ Set the following:
 ### Step 5: Send the Secure Email
 
 1. Click **Save**.
+2. Write a short message.
 
+<img width="449" height="457" alt="14" src="https://github.com/user-attachments/assets/1dcef4ce-83d0-47ac-9434-5b802ea5cb83" />
 
+3. Click **Send**.
 
 
 
