@@ -30,8 +30,9 @@ Email by default does not provide strong privacy protections. This feature adds 
 
 1. Open a web browser.
 2. Navigate to Gmail.
-3. Log into your account.
 
+
+<img width="965" height="389" alt="10" src="https://github.com/user-attachments/assets/5e804c08-29fa-4df3-9cda-f37481f8a642" />
 
 
 
