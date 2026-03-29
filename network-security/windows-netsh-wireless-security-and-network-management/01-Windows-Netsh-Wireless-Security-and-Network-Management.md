@@ -62,7 +62,11 @@ This displays:
 - Supported radio types
 - Authentication and encryption support
 
+---
 
+### Step 4: View Wireless Interfaces
+
+Run: **show interfaces**
 
 
 
