@@ -146,6 +146,15 @@ Run: **connect name=profile-name ssid=ssid-name**
 
 <img width="770" height="108" alt="15" src="https://github.com/user-attachments/assets/5aedd8c0-38ab-40a0-8757-722257005d00" />
 
+The blocked network will not appear in the list.
+
+---
+
+## Step 12: Verify Blocked Network
+
+Run: **show networks**
+
+
 
 
 
