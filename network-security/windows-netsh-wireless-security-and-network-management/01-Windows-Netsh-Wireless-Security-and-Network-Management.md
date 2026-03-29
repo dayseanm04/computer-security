@@ -16,5 +16,13 @@ This lab shows how command-line tools can be used to control wireless network be
 - Block and unblock specific wireless networks
 
 
+---
 
+## Lab Environment
+
+| Component | Details |
+|---|---|
+| Operating System | Windows 10/11 |
+| Tool | Windows PowerShell (Admin) |
+| Network | Wireless LAN |
 
