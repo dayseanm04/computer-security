@@ -28,6 +28,9 @@ This lab shows how command-line tools can be used to control wireless network be
 
 Note: Your device must have a wireless network interface card
 
+---
+
+### Step 1: Open PowerShell as Administrator
 
 
 
