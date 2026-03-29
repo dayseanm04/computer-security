@@ -183,17 +183,8 @@ Run: **delete filter permission=block ssid=TMOBILE-D051 networktype=infrastructu
 
 <img width="812" height="73" alt="29" src="https://github.com/user-attachments/assets/58fefb94-58b8-4e82-a88f-cd08f90de1b7" />
 
+### Step 15: view Wi-Fi password (optional)
 
+Run: **show profile name=”name-here” key=clear**
 
-
-
-
-
-
-
-
-
-
-
-
-
+<img width="1028" height="817" alt="30" src="https://github.com/user-attachments/assets/c652053e-9768-4890-9ed7-8cd8c07eb7d0" />
