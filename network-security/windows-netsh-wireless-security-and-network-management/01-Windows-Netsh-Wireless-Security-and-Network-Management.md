@@ -32,8 +32,9 @@ Note: Your device must have a wireless network interface card
 
 ### Step 1: Open PowerShell as Administrator
 
+1. Search for **PowerShell** and click **Run as Administrator**
 
-
+<img width="874" height="495" alt="10" src="https://github.com/user-attachments/assets/6a6d0a5b-4e10-4b14-a556-d2e3a0a543b9" />
 
 
 
