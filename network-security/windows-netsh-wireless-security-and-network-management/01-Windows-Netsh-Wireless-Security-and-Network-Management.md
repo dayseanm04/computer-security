@@ -153,9 +153,10 @@ The blocked network will not appear in the list.
 ## Step 12: Verify Blocked Network
 
 1. Run: **set blockednetworks display=show**
-2. then run **show networks**
 
 <img width="670" height="85" alt="16" src="https://github.com/user-attachments/assets/ac9bcd85-cdc2-4bc6-9020-8f55cc7df96a" />
+
+2. then run **show networks**
 
 <img width="918" height="411" alt="17" src="https://github.com/user-attachments/assets/841cf4a5-481f-44a5-b621-ebba4d3b7ab4" />
 <img width="762" height="387" alt="18" src="https://github.com/user-attachments/assets/ef4ca927-b6e3-4b7d-9565-4462bb9a2213" />
