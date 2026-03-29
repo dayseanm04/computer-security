@@ -94,7 +94,11 @@ Run: **show networks**
 
 <img width="985" height="681" alt="8" src="https://github.com/user-attachments/assets/1eee8743-aa3f-42a3-977e-554e7abc36c0" />
 
+---
 
+### Step 7: View Saved Profiles
+
+Run: **show profiles**
 
 
 
