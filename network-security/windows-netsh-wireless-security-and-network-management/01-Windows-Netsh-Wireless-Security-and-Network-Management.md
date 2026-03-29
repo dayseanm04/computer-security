@@ -10,3 +10,4 @@ This lab shows how command-line tools can be used to control wireless network be
 ## Objective
 
 - Use netsh to manage wireless networks
+- View wireless adapter and driver information
