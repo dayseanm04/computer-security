@@ -26,3 +26,50 @@ This lab shows how command-line tools can be used to control wireless network be
 | Tool | Windows PowerShell (Admin) |
 | Network | Wireless LAN |
 
+Note: Your device must have a wireless network interface card
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
