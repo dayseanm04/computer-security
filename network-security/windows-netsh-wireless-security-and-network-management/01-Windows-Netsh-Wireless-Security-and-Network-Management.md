@@ -142,6 +142,7 @@ Run: **connect name=profile-name ssid=ssid-name**
 
 2. Block the network: **add filter permission=block ssid=TMOBILE-D051 networktype=infrastructure**
 
+<img width="770" height="108" alt="24" src="https://github.com/user-attachments/assets/5aedd8c0-38ab-40a0-8757-722257005d00" />
 
 
 
