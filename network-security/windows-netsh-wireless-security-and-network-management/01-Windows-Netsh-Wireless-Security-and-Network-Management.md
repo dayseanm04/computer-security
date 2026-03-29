@@ -114,7 +114,11 @@ To remove a profile: **delete profile name=profile-name**
 
 <img width="579" height="95" alt="10" src="https://github.com/user-attachments/assets/cef90471-6ceb-4aae-bb35-f8ee79bd61d2" />
 
+---
 
+### Step 9: Disconnect from Network
+
+Run: **disconnect**
 
 
 
