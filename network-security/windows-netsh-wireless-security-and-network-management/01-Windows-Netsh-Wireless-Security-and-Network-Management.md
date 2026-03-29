@@ -148,6 +148,10 @@ Run: **connect name=profile-name ssid=ssid-name**
 
 The blocked network will not appear in the list.
 
+Ran **show networks**
+
+<img width="918" height="411" alt="17" src="https://github.com/user-attachments/assets/841cf4a5-481f-44a5-b621-ebba4d3b7ab4" />
+
 ---
 
 ## Step 12: Verify Blocked Network
@@ -158,7 +162,6 @@ The blocked network will not appear in the list.
 
 2. then run **show networks**
 
-<img width="918" height="411" alt="17" src="https://github.com/user-attachments/assets/841cf4a5-481f-44a5-b621-ebba4d3b7ab4" />
 <img width="762" height="387" alt="18" src="https://github.com/user-attachments/assets/ef4ca927-b6e3-4b7d-9565-4462bb9a2213" />
 
 
