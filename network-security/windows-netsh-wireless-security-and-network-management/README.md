@@ -33,13 +33,7 @@ The goal is to show how command-line tools can be used for network administratio
 - Blocked a wireless network using SSID filtering
 - Verified blocked networks in both command line and GUI
 
+## Key Takeaways
 
-
-
-
-
-
-
-
-
-
+- SSID filtering can be used to block untrusted networks
+- Wireless profiles store connection details and can be managed
