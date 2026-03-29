@@ -76,7 +76,11 @@ This displays:
 - Authentication type
 - Connection status
 
+---
 
+### Step 5: View Wireless Settings
+
+Run: **show settings**
 
 
 
