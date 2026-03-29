@@ -6,3 +6,7 @@ In this lab, I will demonstrate how to use Windows netsh commands to view and ma
 This lab shows how command-line tools can be used to control wireless network behavior and improve security.
 
 ---
+
+## Objective
+
+- Use netsh to manage wireless networks
