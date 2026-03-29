@@ -6,3 +6,14 @@ This project demonstrates how to use Windows netsh command-line tools to manage 
 The goal is to show how command-line tools can be used for network administration and basic wireless security.
 
 ---
+
+## Objectives
+
+- Use netsh to manage wireless network settings
+- View wireless adapter and driver information
+- Display available Wi-Fi networks and saved profiles
+- Connect and disconnect from wireless networks
+- Block and unblock specific networks using SSID filtering
+
+
+
