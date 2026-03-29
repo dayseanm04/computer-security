@@ -15,5 +15,14 @@ The goal is to show how command-line tools can be used for network administratio
 - Connect and disconnect from wireless networks
 - Block and unblock specific networks using SSID filtering
 
+---
 
+## What I did in this Lab/Project Demonstrates
+
+- Command-line network management
+- Wireless network configuration
+- SSID filtering and access control
+- Understanding wireless security settings
+
+---
 
