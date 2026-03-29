@@ -56,7 +56,11 @@ Run **show drivers**
 
 <img width="974" height="571" alt="5" src="https://github.com/user-attachments/assets/5bf5068d-d6e1-47c9-98bd-b903948b8ee3" />
 
-
+This displays:
+- Wireless adapter name
+- Driver version
+- Supported radio types
+- Authentication and encryption support
 
 
 
