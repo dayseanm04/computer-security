@@ -175,7 +175,7 @@ The blocked network is now displayed
 1. Click the Wi-Fi icon in the system tray.
 2. Locate the blocked network.
 
-<img width="805" height="497" alt="19" src="https://github.com/user-attachments/assets/753ab211-2eb0-4b42-afe3-edd85ce683fa" />
+<img width="805" height="497" alt="19" src="https://github.com/user-attachments/assets/753ab211-2eb0-4b42-afe3-edd85ce683fa" /> <br/>
 
 Observation:
 - The network appears with a blocked indicator (X symbol) 
