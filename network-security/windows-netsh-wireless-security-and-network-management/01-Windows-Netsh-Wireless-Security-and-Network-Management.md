@@ -132,7 +132,11 @@ Run: **connect name=profile-name ssid=ssid-name**
 
 <img width="742" height="90" alt="13" src="https://github.com/user-attachments/assets/3edfc201-e68b-48c5-a728-aa9f14c56b1f" />
 
+---
 
+### Step 11: Block a Wireless Network
+
+1. Identify a network using: **show networks**
 
 
 
