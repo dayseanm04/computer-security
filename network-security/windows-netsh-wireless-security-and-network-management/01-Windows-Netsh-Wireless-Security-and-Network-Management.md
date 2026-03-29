@@ -100,6 +100,7 @@ Run: **show networks**
 
 Run: **show profiles**
 
+<img width="908" height="446" alt="9" src="https://github.com/user-attachments/assets/8d3a8c3f-d264-4271-b068-2307403d4b47" />
 
 
 
