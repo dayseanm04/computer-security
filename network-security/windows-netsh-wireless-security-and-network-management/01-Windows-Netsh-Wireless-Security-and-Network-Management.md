@@ -42,6 +42,7 @@ Note: Your device must have a wireless network interface card
 
 In PowerShell, type: **netsh**
 
+<img width="805" height="195" alt="3" src="https://github.com/user-attachments/assets/6cf61f5c-829b-4703-8572-05e19e8bda14" />
 
 
 
