@@ -140,7 +140,7 @@ Run: **connect name=profile-name ssid=ssid-name**
 
 <img width="985" height="681" alt="8" src="https://github.com/user-attachments/assets/1eee8743-aa3f-42a3-977e-554e7abc36c0" />
 
-
+2. Block the network: **add filter permission=block ssid=TMOBILE-D051 networktype=infrastructure**
 
 
 
