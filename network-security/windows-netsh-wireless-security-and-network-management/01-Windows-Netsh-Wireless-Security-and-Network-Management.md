@@ -124,8 +124,13 @@ Run: **disconnect**
 
 <img width="251" height="58" alt="12" src="https://github.com/user-attachments/assets/aca24fab-b348-48d9-a55a-048fbe3cff6e" />
 
+---
 
+### Step 10: Reconnect to Network
 
+Run: **connect name=profile-name ssid=ssid-name**
+
+<img width="742" height="90" alt="13" src="https://github.com/user-attachments/assets/3edfc201-e68b-48c5-a728-aa9f14c56b1f" />
 
 
 
