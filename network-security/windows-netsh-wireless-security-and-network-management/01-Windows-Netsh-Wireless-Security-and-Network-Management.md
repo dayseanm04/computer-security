@@ -120,7 +120,9 @@ To remove a profile: **delete profile name=profile-name**
 
 Run: **disconnect**
 
+<img width="748" height="157" alt="11" src="https://github.com/user-attachments/assets/73df01a6-8101-45dc-a715-2984b5946350" />
 
+<img width="251" height="58" alt="21" src="https://github.com/user-attachments/assets/aca24fab-b348-48d9-a55a-048fbe3cff6e" />
 
 
 
