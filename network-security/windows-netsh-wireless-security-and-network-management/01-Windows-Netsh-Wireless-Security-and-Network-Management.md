@@ -46,6 +46,7 @@ Note: Your device must have a wireless network interface card
 
 2. Type **wlan** and press **Enter**
 
+<img width="765" height="226" alt="4" src="https://github.com/user-attachments/assets/682ca784-3f6f-42d4-88a4-e711d8c5d882" />
 
 
 
