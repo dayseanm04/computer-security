@@ -68,6 +68,7 @@ This displays:
 
 Run: **show interfaces**
 
+<img width="810" height="522" alt="6" src="https://github.com/user-attachments/assets/f17b7dcc-31c8-42a7-9d5b-e19f20af809e" />
 
 
 
