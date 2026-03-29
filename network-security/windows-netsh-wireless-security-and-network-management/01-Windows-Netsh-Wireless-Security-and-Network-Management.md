@@ -86,8 +86,11 @@ Run: **show settings**
 
 This shows global wireless settings.
 
+---
 
+### Step 6: View Available Networks
 
+Run: **show networks**
 
 
 
