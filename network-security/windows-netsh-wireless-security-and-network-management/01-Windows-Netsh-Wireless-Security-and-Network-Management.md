@@ -152,6 +152,8 @@ Ran **show networks**
 
 <img width="918" height="411" alt="17" src="https://github.com/user-attachments/assets/841cf4a5-481f-44a5-b621-ebba4d3b7ab4" />
 
+The blocked network doesn't show
+
 ---
 
 ## Step 12: Verify Blocked Network
@@ -164,6 +166,7 @@ Ran **show networks**
 
 <img width="762" height="387" alt="18" src="https://github.com/user-attachments/assets/ef4ca927-b6e3-4b7d-9565-4462bb9a2213" />
 
+The blocked network is now displayed
 
 
 
