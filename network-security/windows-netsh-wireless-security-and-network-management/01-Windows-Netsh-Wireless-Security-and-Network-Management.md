@@ -52,8 +52,9 @@ Note: Your device must have a wireless network interface card
 
 ### Step 3: View Wireless Driver Information
 
+Run **show drivers**
 
-
+<img width="974" height="571" alt="5" src="https://github.com/user-attachments/assets/5bf5068d-d6e1-47c9-98bd-b903948b8ee3" />
 
 
 
