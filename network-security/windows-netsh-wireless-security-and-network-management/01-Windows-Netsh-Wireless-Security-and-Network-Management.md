@@ -177,11 +177,12 @@ The blocked network is now displayed
 
 <img width="805" height="497" alt="19" src="https://github.com/user-attachments/assets/753ab211-2eb0-4b42-afe3-edd85ce683fa" />
 
+Observation:
+- The network appears with a blocked indicator (X symbol) 
 
+Run: **delete filter permission=block ssid=TMOBILE-D051 networktype=infrastructure**
 
-
-
-
+<img width="812" height="73" alt="29" src="https://github.com/user-attachments/assets/58fefb94-58b8-4e82-a88f-cd08f90de1b7" />
 
 
 
