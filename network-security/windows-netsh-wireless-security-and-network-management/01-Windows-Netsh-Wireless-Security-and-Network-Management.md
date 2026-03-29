@@ -188,3 +188,9 @@ Run: **delete filter permission=block ssid=TMOBILE-D051 networktype=infrastructu
 Run: **show profile name=”name-here” key=clear**
 
 <img width="1028" height="817" alt="30" src="https://github.com/user-attachments/assets/c652053e-9768-4890-9ed7-8cd8c07eb7d0" />
+
+## Observations
+
+- Netsh provides detailed wireless network information
+- Saved profiles can be managed from the command line
+- Networks can be blocked using SSID filtering
