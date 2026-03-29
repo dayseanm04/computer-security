@@ -35,10 +35,12 @@ Note: Your device must have a wireless network interface card
 1. Search for **PowerShell** and click **Run as Administrator**
 3. Click **Yes** if prompted.
 
-<img width="874" height="495" alt="10" src="https://github.com/user-attachments/assets/6a6d0a5b-4e10-4b14-a556-d2e3a0a543b9" />
+<img width="874" height="495" alt="1" src="https://github.com/user-attachments/assets/6a6d0a5b-4e10-4b14-a556-d2e3a0a543b9" />
+<img width="786" height="265" alt="2" src="https://github.com/user-attachments/assets/0e2b21f5-49f3-4dc2-affa-c3e7a34a5fb7" />
 
+### Step 2: Start Netsh
 
-
+In PowerShell, type: **netsh**
 
 
 
