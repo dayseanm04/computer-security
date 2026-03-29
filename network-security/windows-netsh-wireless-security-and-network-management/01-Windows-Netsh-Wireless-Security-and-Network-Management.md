@@ -106,7 +106,11 @@ This shows all saved Wi-Fi profiles on the system.
 
 Profiles represent networks the system has connected to before
 
+---
 
+### Step 8: Delete a Saved Profile (Optional)
+
+To remove a profile: **delete profile name=profile-name**
 
 
 
