@@ -154,6 +154,7 @@ The blocked network will not appear in the list.
 
 Run: **show networks**
 
+<img width="918" height="411" alt="16" src="https://github.com/user-attachments/assets/841cf4a5-481f-44a5-b621-ebba4d3b7ab4" />
 
 
 
