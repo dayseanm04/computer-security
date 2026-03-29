@@ -17,7 +17,7 @@ The goal is to show how command-line tools can be used for network administratio
 
 ---
 
-## What I did in this Lab/Project Demonstrates
+## What I did in this Lab/Project
 
 - Command-line network management
 - Wireless network configuration
@@ -25,8 +25,6 @@ The goal is to show how command-line tools can be used for network administratio
 - Understanding wireless security settings
 
 ---
-
-Features Implemented
 
 - Displayed wireless driver and interface details
 - Viewed available networks and encryption types (WPA2, WPA3)
