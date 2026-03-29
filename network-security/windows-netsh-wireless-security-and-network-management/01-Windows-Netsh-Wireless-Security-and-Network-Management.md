@@ -82,6 +82,7 @@ This displays:
 
 Run: **show settings**
 
+<img width="887" height="302" alt="7" src="https://github.com/user-attachments/assets/ff3db8b4-5aa4-486b-8c27-2f758da0c3ef" />
 
 
 
