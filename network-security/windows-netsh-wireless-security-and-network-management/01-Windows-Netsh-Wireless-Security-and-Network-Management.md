@@ -12,3 +12,9 @@ This lab shows how command-line tools can be used to control wireless network be
 - Use netsh to manage wireless networks
 - View wireless adapter and driver information
 - Display available networks and saved profiles
+- Connect and disconnect from networks
+- Block and unblock specific wireless networks
+
+
+
+
