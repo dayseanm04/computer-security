@@ -26,3 +26,22 @@ The goal is to show how command-line tools can be used for network administratio
 
 ---
 
+Features Implemented
+
+- Displayed wireless driver and interface details
+- Viewed available networks and encryption types (WPA2, WPA3)
+- Managed saved Wi-Fi profiles
+- Disconnected and reconnected to networks using CLI
+- Blocked a wireless network using SSID filtering
+- Verified blocked networks in both command line and GUI
+
+
+
+
+
+
+
+
+
+
+
