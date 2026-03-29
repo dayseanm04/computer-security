@@ -73,6 +73,7 @@ Run: **show interfaces**
 This displays:
 - Interface name
 - SSID (connected network)
+- Authentication type
 - Connection status
 
 
